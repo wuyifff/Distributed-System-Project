@@ -1,0 +1,1055 @@
+﻿X,Y,OBJECTID,STALL_NUME,NORTHING,EASTING,BLOCK_RANG,Front_t_Co,Rear_t_Con,st_No_Con,nd_No_Con,rd_No_Con,Notes,FACILITYID,Price,URL,PermitArea
+-88.2353140157056,40.1057103890482,1,13,1252437.643,1011662.665,1000 S Third St,,,,,,,1,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353131564762,40.10577296921,2,14,1252462.226,1011670.016,1000 S Third St, , ,F11,F11, ,2011,2,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353147987002,40.1059411876943,3,15,1252522.307,1011656.193,1000 S Third St,F11, ,F11,F11, ,2011,3,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353133187163,40.1060047895385,4,16,1252540.675,1011659.515,1000 S Third St,,,,,,,4,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353170515945,40.10617834149,5,17,1252594.288,1011671.754,1000 S Third St,,,,,,,5,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353192307755,40.1063679799994,6,18,1252674.355,1011662.201,1000 S Third St,,,,,,,6,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354027620805,40.1063049771292,7,60,1252651.904,1011637.373,1000 S Third St, , , ,F11, ,2011,7,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354019019199,40.106244748854,8,61,1252622.586,1011638.328,1000 S Third St,,,,,,,8,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354005090794,40.1061838338509,9,62,1252595.38,1011633.166,1000 S Third St,,,,,,,9,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354020960284,40.1061216523848,10,63,1252581.154,1011641.84,1000 S Third St,,,,,,,10,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354016063476,40.1060549894494,11,64,1252552.544,1011638.314,1000 S Third St,,,,,,,11,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354017865671,40.1060004702177,12,65,1252532.991,1011641.86,1000 S Third St,,,,,,,12,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354017739749,40.1059397265973,13,66,1252515.604,1011646.716,1000 S Third St,,,,,,,13,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354007377017,40.1058845344691,14,67,1252486.071,1011648.548,1000 S Third St,,,,,,,14,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2363595260955,40.1054260976084,15,27,1252319.343,1011381.683,200 E Armory Ave,,,,,,,15,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2362694274705,40.1054271884515,16,28,1252321.741,1011407.204,200 E Armory Ave,F10, , , , , ,16,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2361997019255,40.1054265121713,17,29,1252320.73,1011419.874,200 E Armory Ave,F10, , , , , ,17,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2361153463841,40.105426309008,18,30,1252325.177,1011439.984,200 E Armory Ave,F10, , , , , ,18,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2360367505536,40.1054279632092,19,31,1252316.359,1011476.471,200 E Armory Ave,F10, , , , , ,19,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2359594313861,40.1054275695063,20,32,1252320.88,1011497.312,200 E Armory Ave,F10, , , , , ,20,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2358824420683,40.1054294528116,21,33,1252325.352,1011513.639,200 E Armory Ave,F10, , , , , ,21,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2358010606332,40.1054302903433,22,34,1252324.467,1011534.84,200 E Armory Ave,F10, , , , , ,22,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2339034006585,40.1114477224095,23,36,1254515.229,1012060.611,300 E Healey St,F10, ,F11,F11, ,2011,24,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2339932205905,40.1114477580523,24,35,1254523.083,1012038.176,300 E Healey St,F10, , , , , ,25,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2342167462447,40.1114463428352,25,33,1254537.037,1011969.631,300 E Healey St,F10,F10,F11, , ,2011,27,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2342858340654,40.1114453211865,26,32,1254522.594,1011951.778,300 E Healey St, , , ,F11, ,2011,28,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2343626094875,40.1114460046446,27,31,1254527.687,1011933.088,300 E Healey St,,,,,,,29,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2344441512713,40.111445511402,28,30,1254524.481,1011905.368,300 E Healey St,F10, , ,F11, ,2011,30,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2345973592097,40.1114463436944,29,28,1254544.849,1011868.493,300 E Healey St,,,,,,,31,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2345263523032,40.1114425635607,30,29,1254528.482,1011869.198,300 E Healey St,F10, , , , , ,32,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2346693767968,40.1114455566757,31,27,1254545.937,1011830.575,300 E Healey St,,,,,,,33,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2347475336975,40.1114448225711,32,26A,1254528.079,1011826.427,300 E Healey St,F10, , , , , ,34,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2349044106616,40.1114416326873,33,26,1254518.145,1011780.365,300 E Healey St,F10,F10, , , , ,35,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2349813840188,40.1114408965184,34,25,1254525.912,1011751.807,300 E Healey St,F10, , ,F11, ,2011,36,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2370578098306,40.1077585910962,35,22,1253123.765,1011182.986,900 S Second St, , ,F11,F11, ,2011,37,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2370572236738,40.1077026338421,36,21,1253109.672,1011176.824,900 S Second St,F11, , , , ,2011,38,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2370563470125,40.1076514001272,37,20,1253086.714,1011173.807,900 S Second St,F11, ,F11,F11, ,2011,39,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.23705236223,40.1072315413675,38,19,1252980.274,1011185.976,900 S Second St, , , ,F11, ,2011,40,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.237053026947,40.1071660466218,39,18,1252957.633,1011179.728,900 S Second St,F10, , ,F11, ,2011,41,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2370519893532,40.1071075050917,40,17,1252938.431,1011183.287,900 S Second St,F10, , ,F11, ,2011,42,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2370507280753,40.1068241005572,41,16,1252841.467,1011199.74,900 S Second St, , ,F11,F11, ,2011,43,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2300318739371,40.1153775475217,42,53,1255961.702,1013139.171,600 E Clark St,,,,,,,44,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2370450330911,40.1063769252365,43,15,1252671.015,1011194.254,1000 S Second St,F10, , , , , ,45,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2370459314816,40.1063162301102,44,14,1252650.207,1011189.069,1000 S Second St,,,,,,,46,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2370472399442,40.1062625016647,45,13,1252627.943,1011187.748,1000 S Second St, , ,F11,F11, ,2011,47,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2370431528233,40.1062039765034,46,12,1252609.272,1011188.241,1000 S Second St,F10, ,F11,F11, ,2011,48,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.237042304331,40.106143597844,47,11,1252588.492,1011187.982,1000 S Second St,F10, , , , , ,49,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353198810264,40.1067746445914,48,19,1252817.64,1011670.275,900 S Third St, , ,F11,F11, ,2011,50,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.235324162331,40.1068276212167,49,20,1252836.937,1011666.638,900 S Third St, , ,F11,F11, ,2011,51,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353227578635,40.1068909006912,50,21,1252857.731,1011664.747,900 S Third St,,,,,,,52,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353245591258,40.1069458809101,51,22,1252879.812,1011656.882,900 S Third St, , ,F11, , ,2011,53,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353243978732,40.1070018492555,52,23,1252900.406,1011666.502,900 S Third St,,,,,,,54,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353222763899,40.1070662007666,53,24,1252922.758,1011668.399,900 S Third St,,,,,,,55,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353245487807,40.1071230835039,54,24a,1252946.326,1011665.156,900 S Third St,F10, ,F11, ,F11,2011,56,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353230893347,40.1072001488053,55,24b,1252975.828,1011663.797,900 S Third St, , ,F11,F11,F11,2011,57,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353225676702,40.1072645169785,56,25,1253000.358,1011662.893,900 S Third St,F10, ,F11,F11, ,2011,58,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353252690408,40.1073297903051,57,26,1253019.367,1011662.864,900 S Third St,F10, , ,F11, ,2011,59,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353272328144,40.107381875146,58,27,1253036.783,1011660.377,900 S Third St,F10, , , , , ,60,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353276309947,40.1075212409899,59,28,1253092.041,1011663.827,900 S Third St,,,,,,,61,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353292262239,40.1075833116537,60,29,1253112.407,1011660.763,900 S Third St,,,,,,,62,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353282487247,40.10763675665,61,30,1253132.038,1011664.823,900 S Third St, , , ,F11, ,2011,63,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353269309019,40.1077074870643,62,31,1253154.159,1011663.253,900 S Third St,,,,,,,64,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.235415357932,40.1077748944204,63,49,1253183.201,1011642.536,900 S Third St, , ,F11,F11, ,2011,65,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354145234511,40.1077073720159,64,50,1253159.427,1011641.452,900 S Third St, , ,F11,F11, ,2011,66,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354135229873,40.1076459962398,65,51,1253133.989,1011642.008,900 S Third St,,,,,,,67,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354125464638,40.1075777415051,66,52,1253104.417,1011646.592,900 S Third St,,,,,,,68,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354097496439,40.1074529997946,67,53,1253089.466,1011642.447,900 S Third St,,,,,,,69,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354130050389,40.1073838975442,68,54,1253042.808,1011644.602,900 S Third St,,,,,,,70,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354123921776,40.1073295100465,69,55,1253018.097,1011646.043,900 S Third St,,,,,,,71,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354127896403,40.1072715389124,70,56,1253000.575,1011643.622,900 S Third St,,,,,,,72,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354087196806,40.1071021881305,71,57,1252936.681,1011647.142,900 S Third St,,,,,,,73,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354076385633,40.1070496258025,72,58,1252916.548,1011647.89,900 S Third St,,,,,,,74,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354063848771,40.1069071943948,73,59,1252864.895,1011646.869,900 S Third St,F10, , , , , ,75,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.237699978128,40.1073978857666,74,1,1253041.736,1011003.136,900 S First St,,,,,,Parkette 154,76,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376993504265,40.1073728964899,75,2,1253033.87,1011003.024,900 S First St,,,,,,Parkette 154,77,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376987804944,40.1073502083592,76,3,1253025.689,1011004.025,900 S First St, , ,F11, , ,Parkette 154,78,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376982482987,40.1073290504225,77,4,1253013.603,1011003.645,900 S First St, , ,F11, , ,Parkette 154,79,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376976394936,40.1073048068791,78,5,1253005.334,1011004.467,900 S First St,,,,,,Parkette 154,80,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376970651105,40.1072819476257,79,6,1252997.597,1011010.609,900 S First St,,,,,,Parkette 154,81,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376964763112,40.1072584948479,80,7,1252984.288,1011008.16,900 S First St,,,,,,Parkette 154,82,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376958941385,40.1072353356794,81,8,1252988.449,1011001.575,900 S First St,,,,,,Parkette 154,83,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376953119763,40.1072121693059,82,9,1252972.642,1011006.634,900 S First St,,,,,,Parkette 154,84,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376946853791,40.1071872313649,83,10,1252963.647,1011005.969,900 S First St,,,,,,Parkette 154,85,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.237694166499,40.1071666174166,84,11,1252957.547,1011004.539,900 S First St, , , ,F11, ,Parkette 154,86,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376935221778,40.107140935544,85,12,1252947.111,1011004.065,900 S First St, , , ,F11, ,Parkette 154,87,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376929100237,40.1071165731144,86,13,1252940.297,1011005.714,900 S First St, , , ,F11, ,Parkette 154,88,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376923567193,40.1070945775775,87,14,1252933.61,1011001.878,900 S First St,,,,,,Parkette 154,89,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376917023403,40.1070685408498,88,15,1252921.574,1011002.705,900 S First St,,,,,,Parkette 154,90,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2377997002746,40.1070676149711,89,30,1252924.722,1010977.546,900 S First St,,,,,,Parkette 154,91,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378003158289,40.1070920890807,90,29,1252933.016,1010976.293,900 S First St,,,,,,Parkette 154,92,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378009202694,40.1071161236757,91,28,1252942.76,1010980.972,900 S First St, , ,F11, , ,Parkette 154,93,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378014957631,40.1071390513778,92,27,1252954.546,1010980.985,900 S First St,,,,,,Parkette 154,94,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378020568434,40.1071613828538,93,26,1252956.518,1010973.59,900 S First St,,,,,,Parkette 154,95,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378026568214,40.1071852544315,94,25,1252964.016,1010969.008,900 S First St,,,,,,Parkette 154,96,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378032434469,40.1072086099397,95,24,1252981.12,1010976.157,900 S First St,,,,,,Parkette 154,97,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378039011919,40.1072347871666,96,23,1252984.439,1010974.605,900 S First St,,,,,,Parkette 154,98,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378044834188,40.1072579337258,97,22,1252992.662,1010974.638,900 S First St,,,,,,Parkette 154,99,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378050700707,40.1072812712212,98,21,1253001.938,1010974.683,900 S First St,,,,,,Parkette 154,100,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378056544905,40.1073045276584,99,20,1253010.188,1010973.813,900 S First St, , ,F11,F11, ,Parkette 154,101,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378062144332,40.1073268357164,100,19,1253017.905,1010971.994,900 S First St, , ,F11,F11, ,Parkette 154,102,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378067821798,40.1073494346829,101,18,1253026.617,1010972.666,900 S First St, , ,F11,F11, ,Parkette 154,103,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378073688508,40.1073727595692,102,17,1253033.974,1010969.668,900 S First St,,,,,,Parkette 154,104,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378080099109,40.1073982892317,103,16,1253046.218,1010974.989,900 S First St,,,,,,Parkette 154,105,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379029453739,40.1073950288692,104,31,1253029.504,1010951.244,900 S First St,,,,,,Parkette 154,106,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379023297676,40.1073705637677,105,32,1253035.892,1010949.276,900 S First St,,,,,,Parkette 154,107,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379018075591,40.1073497678917,106,33,1253024.383,1010944.65,900 S First St,,,,,,Parkette 154,108,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379012420161,40.1073272481825,107,34,1253046.108,1010951.274,900 S First St, , ,F11, , ,Parkette 154,109,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379006653448,40.1073042988657,108,35,1253009.381,1010943.718,900 S First St,,,,,,Parkette 154,110,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379000742416,40.1072807659314,109,36,1252999.484,1010945.823,900 S First St, , ,F11,F11, ,Parkette 154,111,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378994919582,40.1072576364846,110,37,1252995.815,1010946.329,900 S First St, , ,F11,F11, ,Parkette 154,112,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.237898829783,40.1072312458064,111,38,1252983.083,1010945.419,900 S First St, , ,F11,F11, ,Parkette 154,113,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378982186711,40.1072069239073,112,39,1252973.813,1010945.753,900 S First St, , ,F11, , ,Parkette 154,114,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378976386605,40.107183847599,113,40,1252969.062,1010940.941,900 S First St, , ,F11,F11, ,Parkette 154,115,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378970830835,40.1071617520921,114,41,1252956.721,1010944.803,900 S First St, , , ,F11, ,Parkette 154,116,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.23789650755,40.1071388297942,115,42,1252950.703,1010943.862,900 S First St,,,,,,Parkette 154,117,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378958986471,40.1071146069654,116,43,1252938.455,1010946.102,900 S First St, , , ,F11, ,Parkette 154,118,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378953164306,40.107091431586,117,44,1252928.795,1010946.517,900 S First St, , , ,F11, ,Parkette 154,119,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378947263905,40.1070679797081,118,45,1252920.569,1010946.763,900 S First St, , ,F11,F11, ,Parkette 154,120,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2380001971067,40.1071499478481,119,50,1252922.022,1010928.025,900 S First St, , ,F11,F11, ,Parkette 154,121,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2380000449883,40.1071270042842,120,49,1252923.468,1010921.922,900 S First St, , , ,F11, ,Parkette 154,122,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379998975679,40.1071048965047,121,48,1252927.239,1010918.623,900 S First St, , , ,F11, ,Parkette 154,123,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379997483235,40.107082414964,122,47,1252939.725,1010918.936,900 S First St, , ,F11,F11, ,Parkette 154,124,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379996098463,40.1070614626944,123,46,1252941.958,1010914.181,900 S First St,,,,,,Parkette 154,125,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2342565564277,40.1059341648762,124,20,1252511.536,1011960.541,Parkette159,,,,,,,126,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2342565220889,40.1059578350949,125,21,1252522.502,1011960.759,Parkette159, , , ,F11, ,2011,127,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2342564892343,40.1059804822038,126,22,1252532.235,1011961.957,Parkette159,,,,,,,128,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2342564574079,40.1060024205209,127,23,1252535.789,1011961.373,Parkette159, , ,F11,F11, ,2011,129,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2342564261498,40.1060239670663,128,24,1252541.906,1011962.823,Parkette159, , ,F11,F11, ,2011,130,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.234384797824,40.1060174373882,129,13,1252541.438,1011933.216,Parkette159, , ,F11,F11, ,2011,131,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2343846289762,40.1059955466328,130,14,1252535.425,1011934.101,Parkette159, , , ,F11, ,2011,132,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2343844583491,40.1059732650042,131,15,1252526.524,1011933.104,Parkette159, , , ,F11, ,2011,133,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.234384287525,40.1059511193698,132,16,1252518.326,1011933.638,Parkette159, , ,F11,F11, ,2011,134,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2343841009921,40.1059268635556,133,17,1252509.621,1011934.372,Parkette159, , , ,F11, ,2011,135,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2343839232133,40.105903851513,134,18,1252503.715,1011934.843,Parkette159, , , ,F11, ,2011,136,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2343837662602,40.1058834657131,135,19,1252493.427,1011931.918,Parkette159, , ,F11,F11, ,2011,137,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.234477945541,40.1059013226831,136,7,1252504.097,1011896.502,Parkette159, , ,F11, , ,2011,138,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2344781371489,40.1059261467965,137,8,1252513.362,1011899.029,Parkette159, , ,F11, , ,2011,139,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2344783178915,40.105949564123,138,9,1252520.853,1011899.162,Parkette159, , ,F11, , ,2011,140,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2344784985391,40.105973047195,139,10,1252528.627,1011898.488,Parkette159,,,,,,,141,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2344786593766,40.1059940102989,140,11,1252537.173,1011899.165,Parkette159,,,,,,,142,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.234478828158,40.1060159677005,141,12,1252543.739,1011901.781,Parkette159,,,,,,,143,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2346023994969,40.1060286764555,142,1,1252554.799,1011853.467,Parkette159, , ,F11, , ,2011,144,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2346024990534,40.1060076784494,143,2,1252542.331,1011852.395,Parkette159,,,,,,,145,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2346026100866,40.1059844207828,144,3,1252532.514,1011867.717,Parkette159, , ,F11, , ,2011,146,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2346027106282,40.1059635524674,145,4,1252525.65,1011865.931,Parkette159, , ,F11, , ,2011,147,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2346028170567,40.1059410459187,146,5,1252517.32,1011865.706,Parkette159,,,,,,,148,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2346029195835,40.1059196156144,147,6,1252508.602,1011866.213,Parkette159,,,,,,,149,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.23799701482,40.1058923024166,148,1,1252497.833,1010921.917,Parkette157, , ,F11, , ,2011,150,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379971342336,40.1059193474086,149,2,1252512.558,1010907.063,Parkette157, , ,F11, , ,2011,151,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379972329834,40.1059418703411,150,3,1252523.455,1010901.508,Parkette157,,,,,,,152,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.237997339189,40.1059657739391,151,4,1252524.015,1010922.393,Parkette157,,,,,,,153,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379974360181,40.1059879924583,152,5,1252534.31,1010917.497,Parkette157,,,,,,,154,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379975422691,40.1060118636335,153,6,1252543.423,1010914.468,Parkette157, , ,F11, , ,2011,155,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379976498564,40.1060364580124,154,7,1252553.047,1010914.853,Parkette157, , ,F11, , ,2011,156,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378798771853,40.1060384612756,155,8,1252549.873,1010947.053,Parkette157, , ,F11, , ,2011,157,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378797731298,40.1060147269972,156,9,1252539.687,1010949.365,Parkette157, , ,F11, , ,2011,158,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378796556892,40.1059879819156,157,10,1252528.043,1010946.47,Parkette157,,,,,,,159,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378795557348,40.1059655094173,158,11,1252516.86,1010944.047,Parkette157, , ,F11, , ,2011,160,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378794525943,40.1059419597677,159,12,1252515.931,1010944.556,Parkette157, , , ,F11, ,2011,161,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378793430665,40.1059171060065,160,13,1252506.807,1010953.281,Parkette157, , , ,F11, ,2011,162,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378792397587,40.1058936761399,161,14,1252504.861,1010946.989,Parkette157,,,,,,,163,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2377875588154,40.1058960862765,162,15,1252497.368,1010981.39,Parkette157, , ,F11,F11, ,2011,164,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2377876628286,40.1059198277603,163,16,1252505.841,1010981.274,Parkette157, , ,F11, , ,2011,165,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2377877722891,40.1059447058384,164,17,1252515.25,1010982.265,Parkette157,,,,,,,166,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2377878656738,40.1059659841016,165,18,1252522.224,1010983.989,Parkette157,,,,,,,167,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2377879680861,40.105989193314,166,19,1252531.114,1010981.818,Parkette157, , ,F11,F11, ,2011,168,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2377880793067,40.1060144901842,167,20,1252539.808,1010982.529,Parkette157, , ,F11,F11, ,2011,169,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2377881850863,40.106038645957,168,21,1252547.558,1010982.121,Parkette157, , , ,F11, ,2011,170,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376801863653,40.1060396204588,169,22,1252548.28,1011008.361,Parkette157, , ,F11,F11, ,2011,171,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376800803387,40.1060156682272,170,23,1252543.662,1011005.67,Parkette157, , ,F11,F11, ,2011,172,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376799791637,40.1059924392021,171,24,1252534.894,1011010.042,Parkette157,,,,,,,173,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376798891027,40.105972161537,172,25,1252523.719,1011006.598,Parkette157,,,,,,,174,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376797753093,40.105946218015,173,26,1252517.484,1011013.189,Parkette157, , ,F11,F11, ,2011,175,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376796703675,40.1059223288278,174,27,1252507.393,1011014.675,Parkette157,,,,,,,176,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376795643766,40.1058983513782,175,28,1252501.671,1011012.011,Parkette157, , ,F11, , ,2011,177,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.238881044232,40.1054117637177,176,15,1252313.175,1010669.667,1-99 E Armory Ave,,,,,,,178,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2389694681466,40.1054113611594,177,14,1252310.42,1010651.52,1-99 E Armory Ave,,,,,,,179,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2390480776928,40.1054116016976,178,13,1252315.638,1010626.23,1-99 E Armory Ave,,,,,,,180,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2391331555724,40.1054110611967,179,12,1252316.631,1010597.223,1-99 E Armory Ave,,,,,,,181,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2394307074012,40.1054089161469,180,11,1252317.705,1010585.316,1-99 E Armory Ave,,,,,,,182,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2395086232021,40.1054070123204,181,10,1252314.227,1010500.322,1-99 E Armory Ave,,,,,,,183,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.23975453165,40.1053991056197,182,09,1252315.218,1010427.927,1-99 E Armory Ave,,,,,,,184,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2398287670334,40.105400557939,183,08,1252315.725,1010407.161,1-99 E Armory Ave,,,,,,,185,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2399184180855,40.1053982021892,184,07,1252312.432,1010382.084,1-99 E Armory Ave,,,,,,,186,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2405253311097,40.1053905871394,185,06,1252311.888,1010212.319,1-99 E Armory Ave,F10, , , , , ,187,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2406051247032,40.105392954848,186,05,1252312.728,1010189.998,1-99 E Armory Ave,,,,,,,188,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.240690635837,40.1053885894922,187,04,1252311.112,1010166.079,1-99 E Armory Ave, , ,F11,F11, ,2011,189,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2407637836774,40.1053937193994,188,03,1252313.992,1010145.101,1-99 E Armory Ave,,,,,,,190,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2408316988471,40.1053939997142,189,02,1252310.978,1010126.619,1-99 E Armory Ave,,,,,,,191,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2410198928486,40.1053881282697,190,01,1252311.107,1010071.914,1-99 E Armory Ave,,,,,,,192,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2416017291314,40.1087653469335,191,01,1253540.295,1009912.69,800 S Oak St, , ,F11, , ,2011,193,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2416016617625,40.1087089713309,192,02,1253519.889,1009913.511,800 S Oak St, , ,F11, , ,2011,194,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2416013233775,40.108646534304,193,03,1253498.056,1009913.629,800 S Oak St,,,,,,,195,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2415996382374,40.1085886326601,194,04,1253477.354,1009913.862,800 S Oak St,,,,,,,196,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.241597116371,40.1085301764683,195,05,1253455.8,1009914.068,800 S Oak St,,,,,,,197,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2415936426901,40.108470399205,196,06,1253434.676,1009914.281,800 S Oak St,,,,,,,198,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2415964999832,40.1084048908718,197,07,1253412.55,1009914.145,800 S Oak St,,,,,,,199,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2415944133648,40.1083446274674,198,08,1253400.23,1009916.11,800 S Oak St,,,,,,,200,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2415973043453,40.1082854703704,199,09,1253380.373,1009916.061,800 S Oak St,,,,,,,201,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2415928550802,40.1082219925623,200,10,1253350.418,1009925.869,800 S Oak St,,,,,,,202,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2415847989027,40.107168622598,202,13,1252959.507,1009918.763,900 S Oak St,,,,,,,204,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2415822636596,40.1071175506108,203,14,1252940.252,1009918.841,900 S Oak St,,,,,,,205,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2415810650814,40.1069873723236,204,15,1252893.699,1009919.225,900 S Oak St,,,,,,,206,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2415807185137,40.1069266788829,205,16,1252872.023,1009919.128,900 S Oak St,,,,,,,207,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2415792080537,40.1068680082256,206,17,1252850.868,1009919.789,900 S Oak St,,,,,,,208,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2415778688542,40.1068032161502,207,18,1252828.785,1009920.188,900 S Oak St,,,,,,,209,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2418054151036,40.1064920048287,208,1A,1252713.007,1009849.277,1-99 E Chalmers St, , ,F11, , ,2011,210,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2419697010527,40.1064907448666,209,2A,1252713.932,1009803.975,1-99 E Chalmers St, ,F10,F11, , ,2011,211,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2420400948727,40.1064898529128,210,3A,1252713.327,1009784.935,1-99 E Chalmers St, , ,F11, , ,2011,212,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.242217575232,40.1064891019447,211,4A,1252712.612,1009740.195,1-99 E Chalmers St, , ,F11, , ,2011,213,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2422830552439,40.1064886112593,212,5A,1252712.935,1009720.23,1-99 E Chalmers St, , ,F11, , ,2011,214,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2415756379817,40.1063440438466,213,19,1252659.434,1009921.115,1000 S Oak St,,,,,,,215,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2415751119214,40.1062929878537,214,20,1252640.314,1009921.108,1000 S Oak St,F10, , , , , ,216,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2415740672316,40.1062324865865,215,21,1252618.969,1009922.811,1000 S Oak St,,,,,,,217,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2415708011114,40.1060986401936,216,22,1252561.485,1009927.1,1000 S Oak St,,,,,,,218,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2415697591077,40.1060335259209,217,23,1252550.832,1009919.925,1000 S Oak St,,,,,,,219,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2415723548641,40.1058509675125,218,24,1252479.945,1009925.257,1000 S Oak St,,,,,,,220,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2415683312502,40.1057108845769,219,25,1252430.351,1009918.663,1000 S Oak St,,,,,,,221,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2415683296637,40.1056509614311,220,26,1252413.978,1009922.163,1000 S Oak St,,,,,,,222,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2401096858743,40.1089498412008,221,20,1253612.386,1010323.428,1-99 E John St,,,,,,,223,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2400352782121,40.10894888967,222,19,1253615.688,1010348.514,1-99 E John St,,,,,,,224,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2399539878046,40.1089513224967,223,18,1253612.103,1010375.116,1-99 E John St,,,,,,,225,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2398763236583,40.1089515228402,224,17,1253610.463,1010396.297,1-99 E John St,,,,,,,226,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2397934324865,40.1089511623238,225,16,1253615.854,1010412.034,1-99 E John St,,,,,,,227,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2389092850431,40.1090347056293,226,15,1253637.687,1010656.121,1-99 E John St,,,,,,,228,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2389883693805,40.1090339009703,227,14,1253637.736,1010635.629,1-99 E John St,,,,,,,229,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2390707122834,40.1090321478488,228,13,1253637.073,1010610.792,1-99 E John St,,,,,,,230,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2391556784729,40.1090316648824,229,12,1253636.941,1010587.026,1-99 E John St,,,,,,,231,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2392299213908,40.1090313568695,230,11,1253637.223,1010567.649,1-99 E John St,,,,,,,232,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2393080860998,40.1090314293547,231,10,1253637.088,1010549.952,1-99 E John St,,,,,,,233,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2393913677896,40.1090302054345,232,09,1253631.884,1010517.005,1-99 E John St,,,,,,,234,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2394666554592,40.1090301421867,233,08,1253636.016,1010498.654,1-99 E John St,,,,,,,235,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2396656857402,40.1090303330328,234,07,1253637.868,1010447.307,1-99 E John St,,,,,,,236,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2398252582644,40.1090288201281,235,06,1253635.49,1010399.721,1-99 E John St,,,,,,,237,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2399088894971,40.1090267252132,236,05,1253633.952,1010381.712,1-99 E John St,,,,,,,238,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2406082231275,40.1090230776571,237,04,1253629.043,1010206.307,30 E John St,,,,,,,239,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2406897061567,40.1090230933258,238,03,1253630.11,1010184.926,30 E John St,F10, , , , , ,240,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2407692465308,40.1090215736196,239,02,1253630.835,1010165.174,30 E John St,,,,,,,241,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2408426317534,40.1090197238181,240,01,1253629.272,1010141.827,30 E John St,,,,,,,242,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2413531911993,40.1078698965706,241,01,1253230.486,1009998.986,1-99 E Daniel St,,,,,,,243,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2412730922308,40.1078691511613,242,02,1253224.957,1010001.045,1-99 E Daniel St,,,,,,,244,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2411923463565,40.107871479017,243,03,1253221.43,1010027.91,1-99 E Daniel St,,,,,,,245,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2411188815343,40.1078715259251,244,04,1253220.169,1010043.007,1-99 E Daniel St,,,,,,,246,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2410579331868,40.1078844229773,245,05,1253220.197,1010062.394,1-99 E Daniel St,,,,,,,247,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2408147522678,40.1078802806451,246,06,1253211.277,1010128.095,1-99 E Daniel St,,,,,,,248,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2407552511552,40.1078793973218,247,07,1253218.455,1010147.061,1-99 E Daniel St,,,,,,,249,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2400793687846,40.1079174937672,248,08,1253229.176,1010338.164,1-99 E Daniel St,,,,,,,250,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2399740638188,40.1079200765894,249,09,1253228.342,1010371.231,1-99 E Daniel St,,,,,,,251,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2399122122262,40.1079225646817,250,10,1253237.344,1010383.088,1-99 E Daniel St,,,,,,,252,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2398261077835,40.1079175849908,251,11,1253232.638,1010406.941,1-99 E Daniel St,,,,,,,253,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2397504043234,40.1079240993175,252,12,1253235.033,1010428.114,1-99 E Daniel St,,,,,,,254,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2396688439248,40.1079207325989,253,13,1253233.83,1010450.929,1-99 E Daniel St,,,,,,,255,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2390905151239,40.1079000111166,254,17,1253226.453,1010612.704,1-99 E Daniel St,,,,,,,256,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.239171594826,40.107893835724,255,16,1253220.567,1010591.317,1-99 E Daniel St,,,,,,,257,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2392519377089,40.1078963263958,256,15,1253222.225,1010566.263,1-99 E Daniel St, , ,F11,F11, ,2011,258,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2393478080772,40.1078960133563,257,14,1253224.92,1010540.737,1-99 E Daniel St,,,,,,,259,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2377146783106,40.1084357445483,258,12,1253420.501,1010995.078,Parkette151,,,,,,,260,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2377467697356,40.1084357224027,259,11,1253419.651,1010986.666,Parkette151, , , ,F11, ,2011,261,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.237777549824,40.108435700067,260,10,1253419.713,1010978.448,Parkette151,,,,,,,262,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378057811299,40.1084356801241,261,9,1253419.808,1010970.117,Parkette151,,,,,,,263,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378384355637,40.1084356566162,262,8,1253419.613,1010961.938,Parkette151, , ,F11, , ,2011,264,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378683089749,40.1084356353101,263,7,1253419.41,1010953.799,Parkette151, , ,F11, , ,2011,265,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379002971834,40.1084356121362,264,6,1253418.826,1010945.806,Parkette151, , ,F11, , ,2011,266,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379284499029,40.1084355920987,265,5,1253419.106,1010936.977,Parkette151, , ,F11, , ,2011,267,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.237959872758,40.1084355693434,266,4,1253418.792,1010928.838,Parkette151, , ,F11, , ,2011,268,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379906282136,40.1084355478313,267,3,1253418.708,1010920.019,Parkette151,,,,,,,269,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2380219560613,40.1084355249809,268,2,1253418.765,1010910.735,Parkette151, , ,F11, , ,2011,270,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2380494601495,40.1084355052809,269,1,1253417.111,1010902.691,Parkette151,,,,,,,271,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2402894474704,40.1104388472068,271,01,1254152.91,1010275.835,600 S locust St, , ,F11,F11, ,2011,,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.240331979484,40.1095360676203,272,03,1253822.51,1010268.796,700 S locust St,F10,F10, , , , ,274,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403368758802,40.1094693793475,273,04,1253800.863,1010267.105,700 S locust St,F10, , , , , ,275,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403404663099,40.1094099238478,274,05,1253778.509,1010266.167,700 S locust St,,,,,,,276,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403450419604,40.1093496423642,275,06,1253755.246,1010265.17,700 S locust St,,,,,,,277,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403481397509,40.1092884554656,276,07,1253733.39,1010264.5,700 S locust St,F10, , , , , ,278,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403531018856,40.1088262999374,277,08,1253559.376,1010268.774,800 S Locust St, ,F10, , , , ,279,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403510689406,40.1086317956367,278,09,1253491.249,1010260.915,800 S Locust St, , , ,F11, ,2011,280,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403538513118,40.1085722296029,279,10,1253464.015,1010262.763,800 S Locust St,,,,,,,281,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403550270188,40.1085141969445,280,11,1253447.106,1010265.234,800 S Locust St,,,,,,,282,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403539057842,40.1084512450266,281,12,1253422.344,1010264.996,800 S Locust St,,,,,,,283,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403534273652,40.1083960110837,282,13,1253403.511,1010258.348,800 S Locust St,,,,,,,284,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403451332243,40.1080896152333,283,14,1253291.334,1010255.787,800 S Locust St, , , ,F11, ,2011,285,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403398294553,40.1077190927229,284,15,1253163.856,1010269.204,900 S locust St, , ,F11,F11, ,2011,286,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403446356357,40.1075376628538,285,16,1253104.4,1010262.988,900 S locust St,F10, , , , , ,287,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403505499054,40.107483938079,286,17,1253076.311,1010269.57,900 S locust St, , , ,F11, ,2011,288,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403485653251,40.1074305356909,287,18,1253066.866,1010264.894,900 S locust St,,,,,,,289,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403487479445,40.1073765262191,288,19,1253045.715,1010263.127,900 S locust St,,,,,,,290,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403469453131,40.1073247414997,289,20,1253027.025,1010263.043,900 S locust St,,,,,,,291,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403445102034,40.1071034684292,290,21,1252943.962,1010270.71,900 S locust St,,,,,,,292,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.240343465242,40.1070448206472,291,22,1252922.625,1010267.596,900 S locust St,,,,,,,293,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403436487807,40.1069953061955,292,23,1252904.935,1010268.605,900 S locust St, , ,F11,F11, ,2011,294,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403409325885,40.1069399884851,293,24,1252889.472,1010266.434,900 S locust St,,,,,,,295,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403415165568,40.1068815167306,294,25,1252859.057,1010268.376,900 S locust St,,,,,,,296,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403395931341,40.1068271480145,295,26,1252840.988,1010268.501,900 S locust St,,,,,,,297,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403309150294,40.1063653478929,296,27,1252665.815,1010272.214,1000 S Locust St,,,,,,,298,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403294866217,40.106310956153,297,28,1252645.148,1010271.771,1000 S Locust St,,,,,,,299,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.240327574722,40.106250727969,298,29,1252624.011,1010268.801,1000 S Locust St, , , ,F11, ,2011,300,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403260214168,40.1061950365246,299,30,1252600.196,1010268.394,1000 S Locust St,,,,,,,301,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403241253956,40.1060680350523,300,31,1252552.276,1010257.62,1000 S Locust St,,,,,,,302,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403242180615,40.1060154944164,301,32,1252540.423,1010270.425,1000 S Locust St, , ,F11,F11, ,2011,303,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403200060358,40.1059553427367,302,33,1252529.476,1010274.375,1000 S Locust St,,,,,,,304,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403186036324,40.1058930651336,303,34,1252510.44,1010277.197,1000 S Locust St,,,,,,,305,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403210074823,40.1058331988599,304,35,1252471.275,1010269.304,1000 S Locust St,,,,,,,306,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403198024506,40.1057689598508,305,36,1252449.521,1010272.772,1000 S Locust St,,,,,,,307,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403196147485,40.1057087060269,306,37,1252427.834,1010269.742,1000 S Locust St,,,,,,,308,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2405156135316,40.1065049345329,307,07A,1252717.96,1010213.181,1-99 E Chalmers St,F10,F10, , , , ,309,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2405858313744,40.1065049619602,308,06,1252713.947,1010187.989,1-99 E Chalmers St,F10, , , , , ,310,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2406617623431,40.1065050335435,309,05,1252718.214,1010172.04,1-99 E Chalmers St,F10, , , , , ,311,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2407492542037,40.1065036426962,310,04,1252718.463,1010147.046,1-99 E Chalmers St,F10, , , , , ,312,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2408289154291,40.1065033875226,311,03,1252724.278,1010131.655,1-99 E Chalmers St,,,,,,,313,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2410212976469,40.1065025305045,312,02,1252719.925,1010070.046,1-99 E Chalmers St,F10,F10, , , , ,314,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.241089218147,40.1065014183054,313,01,1252719.37,1010052.35,1-99 E Chalmers St,,,,,,,315,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2411749412597,40.1065017693393,314,00,1252718.952,1010028.372,1-99 E Chalmers St,,,,,,,316,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2388878064287,40.1065563466974,315,15,1252731.333,1010667.838,1-99 E Chalmers St, ,F10, ,F11, ,2011,317,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2389661484556,40.106555914306,316,14,1252731.277,1010647.622,1-99 E Chalmers St,,,,,,,318,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2390472377605,40.1065552283203,317,13,1252731.394,1010625.2,1-99 E Chalmers St,,,,,,,319,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2391265570586,40.1065546155902,318,12,1252733.602,1010603.662,1-99 E Chalmers St,,,,,,,320,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2391964895417,40.1065540789353,319,11,1252732.735,1010579.804,1-99 E Chalmers St,,,,,,,321,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.239275252197,40.1065514095223,320,10,1252730.331,1010561.159,1-99 E Chalmers St,,,,,,,322,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2393530771492,40.1065525498426,321,09,1252730.593,1010539.389,1-99 E Chalmers St,,,,,,,323,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2397735061106,40.1065517734315,322,08,1252731.086,1010421.102,1-99 E Chalmers St, ,F10, , , , ,324,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2382321596471,40.1090400624454,323,23,1253635.055,1010853.74,100 E John St,,,,,,,325,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2381555430124,40.1090426581585,324,24,1253638.162,1010874.565,100 E John St,,,,,,,326,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2380794034324,40.1090421245401,325,25,1253636.818,1010895.602,100 E John St,,,,,,,327,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2380032390711,40.1090416989263,326,26,1253639.29,1010922.244,100 E John St,,,,,,,328,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379273944795,40.1090424308294,327,27,1253637.626,1010942.547,100 E John St,,,,,,,329,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378500281909,40.1090426030407,328,28,1253638.493,1010963.666,100 E John St,,,,,,,330,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376249973582,40.1090465457802,329,29a,1253638.882,1011027.463,100 E John St,,,,,,,331,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2375457050558,40.1090459092364,330,29,1253640.31,1011047.876,100 E John St,,,,,,,332,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2384649000642,40.1090378828618,331,21,1253635.518,1010789.429,100 E John St,,,,,,,333,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2383965437386,40.1090384717014,332,22,1253635.318,1010804.164,100 E John St,,,,,,,334,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2347961314466,40.1079065459857,333,41,1253245.298,1011784.959,300 E Daniel St,,,,,,,335,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2347089814412,40.1079038032584,334,42,1253231.675,1011828.244,300 E Daniel St,,,,,,,336,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2346380966871,40.1079073201641,335,43,1253226.924,1011839.519,300 E Daniel St,,,,,,,337,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2345629658956,40.1079084404438,336,44,1253229.123,1011862.743,300 E Daniel St,,,,,,,338,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2344880249942,40.107908023469,337,45,1253230.769,1011883.76,300 E Daniel St,,,,,,,339,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2344183621683,40.1079076577858,338,46,1253229.061,1011903.687,300 E Daniel St,,,,,,,340,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2343254050632,40.1079097533745,339,47,1253221.513,1011944.727,300 E Daniel St,,,,,,,341,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2342510952324,40.1079117351516,340,48,1253224.979,1011962.489,300 E Daniel St,,,,,,,342,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2341649529093,40.107906481933,341,49,1253217.14,1011994.228,300 E Daniel St,,,,,,,343,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2339936527816,40.1079094098782,343,50,1253237.071,1012037.064,300 E Daniel St,,,,,,,345,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2338660892226,40.1079883825272,344,51,1253262.904,1012064.645,300 E Daniel St,,,,,,,346,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2339423872119,40.1079872348812,345,52,1253264.02,1012044.816,300 E Daniel St,,,,,,,347,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2340214932606,40.1079852231909,346,53,1253267.285,1012018.147,300 E Daniel St,,,,,,,348,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2340953412524,40.1079879424306,347,54,1253263.803,1012002.776,300 E Daniel St,,,,,,,349,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2341628721919,40.1079864115667,348,55,1253265.453,1011981.13,300 E Daniel St, , , ,F11, ,2011,350,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2342348537395,40.1079869333944,351,56,1253259.415,1011927.822,300 E Daniel St,,,,,,,353,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2343138850039,40.1079847206009,352,57,1253256.86,1011912.056,300 E Daniel St,,,,,,,354,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.234397804003,40.1079864395565,353,58,1253257.313,1011887.055,300 E Daniel St, , , ,F11, ,2011,355,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2344593763025,40.1079850340206,354,59,1253257.317,1011865.11,300 E Daniel St,,,,,,,356,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2345331111178,40.1079849204174,355,60,1253259.124,1011843.505,300 E Daniel St,,,,,,,357,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2368325845294,40.1090485523389,356,30,1253647.344,1011268.326,200 E John St,,,,,,,358,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2367576779084,40.1090495409358,357,31,1253643.087,1011275.077,200 E John St,,,,,,,359,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2366772473053,40.1090501231957,358,32,1253626.352,1011274.216,200 E John St,,,,,,,360,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2366001935457,40.1090499156696,359,33,1253636.718,1011315.727,200 E John St,,,,,,,361,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2365244089782,40.1090496596187,360,34,1253632.886,1011338.951,200 E John St,,,,,,,362,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.236443800081,40.1090518987181,361,35,1253644.476,1011357.364,200 E John St,,,,,,,363,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2363655048818,40.1090528454998,362,36,1253636.679,1011384.194,200 E John St,,,,,,,364,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.236285030458,40.1090528942805,363,37,1253635.967,1011399.118,200 E John St,,,,,,,365,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2362002118074,40.1090559960845,364,38,1253630.022,1011434.635,200 E John St,,,,,,,366,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2361262646058,40.1090553576476,365,39,1253636.148,1011445.625,200 E John St,,,,,,,367,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2360470058949,40.1090566681586,366,40,1253648.484,1011465.396,200 E John St,,,,,,,368,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2350382637917,40.1090048591045,367,64,1253726.056,1011772.131,300 E John St, , , ,F11, ,2011,369,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2349552841346,40.1090072725793,368,63,1253638.247,1011779.149,300 E John St,,,,,,,370,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.234877065335,40.1090081310591,369,62,1253631.154,1011793.038,300 E John St,,,,,,,371,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2347972608122,40.1090081109279,370,61,1253638.511,1011819.638,300 E John St,,,,,,,372,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2347235038014,40.1090082093694,371,60,1253633.559,1011840.023,300 E John St,,,,,,,373,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.234647558144,40.109008265371,372,59,1253625.749,1011855.883,300 E John St,,,,,,,374,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2345602457802,40.1090113827626,373,58,1253629.974,1011880.607,300 E John St,,,,,,,375,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2344828529838,40.109012870317,374,57,1253630.881,1011903.598,300 E John St,,,,,,,376,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2344059697239,40.1090140241229,375,56,1253648.088,1011919.211,300 E John St,,,,,,,377,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2343260794715,40.109014880803,376,55,1253632.737,1011944.317,300 E John St, , ,F11, , ,2011,378,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2342474765905,40.1090152846142,377,54,1253619.355,1011969.533,300 E John St,,,,,,,379,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2341727552625,40.109016295114,378,53,1253633.259,1011989.455,300 E John St,,,,,,,380,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2340918194694,40.1090174578507,379,52,1253634.065,1012014.472,300 E John St,,,,,,,381,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2340128399164,40.1090163544336,380,51,1253620.176,1012045.417,300 E John St,,,,,,,382,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2339348072015,40.1090166756639,381,50,1253645.796,1012066.973,300 E John St,,,,,,,383,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2338539219115,40.1090169844848,382,49,1253633.154,1012078.789,300 E John St,,,,,,,384,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2338600228836,40.1090891063982,383,48,1253661.206,1012084.533,300 E John St,,,,,,,385,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2339404443343,40.1090884126081,384,47,1253652.24,1012060.363,300 E John St,,,,,,,386,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2340161014356,40.1090860070912,385,46,1253653.116,1012038.574,300 E John St,,,,,,,387,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2340936007324,40.1090855538578,386,45,1253649.68,1012014.403,300 E John St,,,,,,,388,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2341687157393,40.1090848922881,387,44,1253637.361,1011956.04,300 E John St,,,,,,,389,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2342484897817,40.1090841544998,388,43,1253644.411,1011966.795,300 E John St,,,,,,,390,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2343289275264,40.1090827327485,389,42,1253637.994,1011945.617,300 E John St,,,,,,,391,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2344074070166,40.1090809229006,390,41,1253649.887,1011924.452,300 E John St,,,,,,,392,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354283632674,40.1088589081301,391,41,1253577.912,1011637.91,800 S Third St, ,F10, , , , ,393,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354256093602,40.1087933546842,392,42,1253551.004,1011647.994,800 S Third St, , , ,F11, ,2011,394,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354244083467,40.1087311285598,393,43,1253534.837,1011642.869,800 S Third St,,,,,,,395,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354244418061,40.1086726140549,394,44,1253511.001,1011640.078,800 S Third St,,,,,,,396,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354231402246,40.1086060873578,395,45,1253485.294,1011644.18,800 S Third St,,,,,,,397,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354189835323,40.1083940847221,396,46,1253403.918,1011647.963,800 S Third St, , ,F11,F11, ,2011,398,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.235417488095,40.1083367883682,397,47,1253391.316,1011640.107,800 S Third St,,,,,,,399,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354176396329,40.1082793655172,398,48,1253378.65,1011641.387,800 S Third St,,,,,,,400,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353285646215,40.108110523774,399,32,1253304.016,1011659.524,800 S Third St,,,,,,,401,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353317742427,40.108281814649,400,33,1253378.135,1011705.465,800 S Third St, , ,F11,F11, ,2011,402,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.235330851734,40.108332079577,401,34,1253400.035,1011661.61,800 S Third St,F10, , , , , ,403,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353324144187,40.1084642467835,402,35,1253436.777,1011661.763,800 S Third St,,,,,,,404,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353333004808,40.108514573582,403,36,1253450.075,1011661.495,800 S Third St,,,,,,,405,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353347023052,40.1086583064798,404,37,1253508.25,1011662.248,800 S Third St, , ,F11,F11, ,2011,406,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353348945796,40.1087114939765,405,38,1253528.278,1011661.612,800 S Third St,F11, ,F11,F11, ,2011,407,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353360447448,40.1087747674863,406,39,1253555.566,1011662.651,800 S Third St, , ,F11,F11, ,2011,408,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353372407579,40.1088371530176,407,40,1253585.527,1011662.897,800 S Third St,,,,,,,409,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.236715906263,40.1078895068282,408,30,1253232.654,1011284.646,200 E Daniel St,,,,,,,410,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2364749774245,40.1078945877743,409,31,1253236.383,1011348.049,200 E Daniel St,,,,,,,411,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2364012982944,40.1078968578573,410,32,1253232.093,1011370.169,200 E Daniel St,,,,,,,412,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2363224621566,40.1078931127994,411,33,1253227,1011389.911,200 E Daniel St,,,,,,,413,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2362416872377,40.1078951075505,412,34,1253230.472,1011410.085,200 E Daniel St,,,,,,,414,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2361655841024,40.1078970737421,413,35,1253235.914,1011438.538,200 E Daniel St,,,,,,,415,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2360887570102,40.1078959276145,414,36,1253232.891,1011454.382,200 E Daniel St,F10, , , , , ,416,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.236009495885,40.107894937901,415,37,1253228.003,1011480.443,200 E Daniel St,,,,,,,417,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2359315347141,40.1078953442953,416,38,1253231.518,1011500.778,200 E Daniel St,,,,,,,418,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2358393318097,40.107896653686,417,39,1253235.819,1011518.328,200 E Daniel St,,,,,,,419,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2348715773061,40.1079073594656,418,40,1253235.333,1011548.479,200 E Daniel St,,,,,,,420,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2346130648346,40.1079863863612,419,61,1253241.057,1011517.448,200 E Daniel St, , , ,F11, ,2011,421,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2346843133833,40.1079844206578,420,62,1253242.578,1011498.789,200 E Daniel St,,,,,,,422,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2358575181416,40.107971305631,421,63,1253249.615,1011499.891,200 E Daniel St, , , ,F11, ,2011,423,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.235917362521,40.1079700131459,422,64,1253250.638,1011480.734,200 E Daniel St,,,,,,,424,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2359970853314,40.107968907555,423,65,1253252.024,1011458.435,200 E Daniel St,,,,,,,425,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2360760179416,40.1079675544742,424,66,1253256.147,1011386.033,200 E Daniel St, , ,F11,F11, ,2011,426,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2363390405553,40.1079680344107,425,67,1253253.781,1011367.116,200 E Daniel St,,,,,,,427,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2364133698069,40.1079655928918,426,68,1253256.799,1011347.535,200 E Daniel St,,,,,,,428,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2364934989774,40.1079665866573,427,69,1253253.509,1011317.261,200 E Daniel St,,,,,,,429,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2365751898311,40.1079680409909,428,70,1253242.828,1011294.109,200 E Daniel St,,,,,,,430,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.236642294169,40.1079670441973,429,71,1253249.181,1011098.693,100 E Daniel St,,,,,,,431,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2373346193637,40.1079551157904,430,72,1253247.514,1011082.801,100 E Daniel St,,,,,,,432,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2374116746657,40.1079541826368,431,73,1253247.561,1011060.119,100 E Daniel St,,,,,,,433,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2374923466322,40.1079528606525,432,74,1253246.08,1011037.81,100 E Daniel St,F11, ,F11,F11, ,2011,434,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2375683437812,40.1079528865859,433,75,1253245.913,1011015.527,100 E Daniel St,,,,,,,435,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2377247513678,40.1079524006703,434,77,1253246.246,1010935.372,100 E Daniel St,,,,,,,437,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378033583223,40.1079523889762,435,78,1253247.96,1010914.719,100 E Daniel St,,,,,,,438,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378654084276,40.1079522852289,436,79,1253247.495,1010894.386,100 E Daniel St,,,,,,,439,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2380782833797,40.1078841543487,437,18,1253220.978,1010895.846,100 E Daniel St,,,,,,,440,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.238029182575,40.1078858071342,438,19,1253225.946,1010910.45,100 E Daniel St,,,,,,,441,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379578867141,40.1078856782,439,20,1253221.569,1010929.522,100 E Daniel St,,,,,,,442,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.237873025195,40.1078878139231,440,21,1253222.373,1010953.258,100 E Daniel St,,,,,,,443,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378034335466,40.1078877142178,441,22,1253222.357,1010972.724,100 E Daniel St, , , ,F11, ,2011,444,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2377160181744,40.1078901323172,442,23,1253223.265,1010997.174,100 E Daniel St,,,,,,,445,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376380034305,40.1078894401521,443,24,1253223.036,1011018.996,100 E Daniel St,,,,,,,446,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2375499218621,40.107895180884,444,25,1253225.154,1011043.632,100 E Daniel St,,,,,,,447,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2374831714726,40.107888911349,445,26,1253222.89,1011062.306,100 E Daniel St,,,,,,,448,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2370671819564,40.1088548816412,446,32,1253571.344,1011183.838,800 S Second St,F10,F10, , , , ,449,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2370674633861,40.1088050124458,447,31,1253554.219,1011185.125,800 S Second St,F10, , , , , ,450,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2370662000767,40.1087426493913,448,30,1253536.884,1011182.812,800 S Second St,F10, , , , , ,451,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2370651682841,40.1086808016862,449,29,1253512.227,1011182.691,800 S Second St,F10, ,F11, , ,2011,452,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2370662389103,40.1086260742711,450,28,1253495.242,1011182.239,800 S Second St,F10, , , , , ,453,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2370649697423,40.1083831592237,451,27,1253414,1011192.689,800 S Second St, ,F10, , , , ,454,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2370648111111,40.1083226235512,452,26,1253376.063,1011184.538,800 S Second St,,,,,,,455,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2370618990652,40.1082616478855,453,25,1253356.759,1011184.031,800 S Second St, , , ,F11, ,2011,456,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2299535578262,40.1153766112443,454,54,1255950.981,1013167.827,600 E Clark St,F10, , , , , ,457,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2298740802827,40.1153765249665,455,55,1255962.804,1013179.885,600 E Clark St,,,,,,,458,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2297933646703,40.1153775425934,456,56,1255944.589,1013213.883,600 E Clark St,F10, , , , , ,459,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2297194918871,40.1153775044497,457,57,1255952.513,1013236.4,600 E Clark St,F10, , , , , ,460,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2296486251783,40.1153769925198,458,58,1255953.019,1013248.6,600 E Clark St,F10, , , , , ,461,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2294716346245,40.1153782434177,459,59,1255954.782,1013299.26,600 E Clark St,F10,F10, , , , ,462,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2293907293842,40.1153782185716,460,60,1255960.66,1013322.85,600 E Clark St,F10, , , , , ,463,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2293093922714,40.1153783184679,461,61,1255979.962,1013354.88,600 E Clark St,,,,,,,464,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2292285277925,40.1153777180462,462,62,1255951.308,1013368.731,600 E Clark St,,,,,,,465,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2333616404563,40.1133155347096,463,1,,,Lot A,,,,,,,466,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.233362508574,40.1132922426029,464,2,1255188.272,1012218.695,Lot A,,,,,,,467,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2333623408253,40.1132682137916,465,3,1255182.214,1012220.273,Lot A,,,,,,,468,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2333621843863,40.1132460745006,466,4,1255173.697,1012220.064,Lot A,,,,,,,469,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2333620088045,40.1132209865477,467,5,1255166.976,1012221.586,Lot A,,,,,,,470,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2333618467346,40.1131978862851,468,6,1255158.631,1012221.848,Lot A,,,,,,,471,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2333616808563,40.1131741826005,469,7,1255149.336,1012221.466,Lot A, , ,F11, , ,2011,472,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2333615170129,40.1131506914651,470,8,1255142.226,1012222.103,Lot A,,,,,,,473,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2333613596492,40.1131283828554,471,9,1255135.217,1012223.329,Lot A,,,,,,,474,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.233361189031,40.1131039109336,472,10,1255126.659,1012224.395,Lot A,,,,,,,475,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2333610307674,40.1130814158936,473,11,1255120.305,1012224.427,Lot A,,,,,,,476,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2333608745546,40.1130591225952,474,12,1255111.669,1012223.766,Lot A,,,,,,,477,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2333606767114,40.1130308130877,475,13,1255103.401,1012224.211,Lot A,,,,,,,478,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2374053154507,40.1078904581136,476,27,1253223.477,1011084.082,100 E Daniel St,,,,,,,479,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2373232631764,40.1078900055615,477,28,1253223.337,1011107.034,100 E Daniel St,,,,,,,480,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2366066416694,40.1049098483833,478,4,1252081.638,1011308.947,1100 S Arbor St,F10, , ,F11, ,2011,481,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2366076088352,40.1049631698525,479,5,1252105.048,1011309.046,1100 S Arbor St, ,F10, ,F11, ,2011,482,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2366073943473,40.1050276616991,480,6,1252156.246,1011307.893,1100 S Arbor St,F10, , ,F11, ,2011,483,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2366095273266,40.1051000485913,481,07,1252182,1011311.427,1100 S Arbor St,F10, , ,F11, ,2011,484,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.236613244546,40.1051652065802,482,08,1252225.763,1011312.621,1100 S Arbor St,F10, , ,F11, ,2011,485,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2366110516211,40.1052287285997,483,09,1252251.749,1011310.299,1100 S Arbor St, ,F10, ,F11, ,2011,486,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2355574755207,40.1042688097009,484,01,1251904.428,1011605.699,1100 S Third St,,,,,,,487,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.235559006421,40.1043267563753,485,02,1251924.769,1011604.944,1100 S Third St,,,,,,,488,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2355587233938,40.1043851824523,486,03,1251945.562,1011604.652,1100 S Third St,,,,,,,489,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2355596110533,40.1044451279724,487,04,1251968.006,1011604.771,1100 S Third St,,,,,,,490,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2355615970581,40.1045055130239,488,05,1251990.263,1011604.365,1100 S Third St,,,,,,,491,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2355609458695,40.1045654959707,489,06,1252012.028,1011604.262,1100 S Third St,,,,,,,492,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2355620854514,40.1046280724303,490,07,1252034.997,1011603.788,1100 S Third St,,,,,,,493,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.235562988338,40.1046823007867,491,08,1252053.492,1011603.731,1100 S Third St,,,,,,,494,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2355652458714,40.1048430536291,492,09,1252145.493,1011602.71,1100 S Third St,F11, ,F11,F11, ,2011,495,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2355694130787,40.1050536280062,493,11,1252187.239,1011603.956,1100 S Third St,F10, , , , , ,496,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2355715581859,40.1051118579875,494,12,1252207.235,1011601.986,1100 S Third St,F10, , , , , ,497,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2344641016765,40.1044115557578,495,01,1251959.006,1011902.606,1100 S Euclid St,,,,,,,498,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2344625776197,40.1044678111634,496,02,1251978.475,1011907.163,1100 S Euclid St,,,,,,,499,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2344640057891,40.1045920339323,497,03,1252044.039,1011906.322,1100 S Euclid St,,,,,,,500,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2344621579654,40.1046458942952,498,04,1252063.009,1011906.297,1100 S Euclid St,,,,,,,501,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2344708402815,40.1051266612659,499,08,1252217.916,1011904.975,1100 S Euclid St,,,,,,,503,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2344710333875,40.1051877193672,500,09,1252239.812,1011904.897,1100 S Euclid St,,,,,,,504,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2344724853201,40.1052501700093,501,10,1252262.735,1011904.118,1100 S Euclid St,F10, , , , , ,505,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2377132637673,40.1084935356152,502,13,1253452.21,1010996.875,Parkette151, , ,F11,F11, ,2011,506,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2377433166622,40.1084935144895,503,14,1253451.456,1010987.359,Parkette151, , , , , , ,507,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2377761071836,40.1084934911115,504,15,1253451.194,1010978.743,Parkette151, , , , , , ,508,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.237806747718,40.1084934695535,505,16,1253451.369,1010970.518,Parkette151, , , , , , ,509,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378364733652,40.1084934481337,506,17,1253450.93,1010962.273,Parkette151, , , , , , ,510,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378668863511,40.1084934263722,507,18,1253451.046,1010954.044,Parkette151, , , , , , ,511,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378970424638,40.1084934052917,508,19,1253450.93,1010945.888,Parkette151, , , , , , ,512,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.237928169767,40.1084933823014,509,20,1253451.28,1010938.084,Parkette151, , , , , , ,513,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379579986308,40.1084933618361,510,21,1253450.741,1010928.906,Parkette151, , ,F11, , ,2011,514,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379894437982,40.1084933390911,511,22,1253450.8,1010920.111,Parkette151, , , , , , ,515,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2380195612055,40.1084933170462,512,23,1253450.336,1010911.618,Parkette151, , ,F11,F11, ,2011,516,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2380530120882,40.1084932932325,513,24,1253449.663,1010902.191,Parkette151, , , , , , ,517,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.235353484302,40.112176814404,514,40,1254778.956,1011650.717,500 S Third St,F10,F10, , , , ,518,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353535467431,40.1122322100906,515,41,1254802.261,1011651.229,500 S Third St,F10, , , , , ,519,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353536216303,40.1122846544395,516,42,1254822.233,1011648.251,500 S Third St,F10, , , , , ,520,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.235353558242,40.1123394547056,517,43,1254838.976,1011654.562,500 S Third St,F10, , , , , ,521,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353539876348,40.112394987596,518,44,1254868.927,1011656.2,500 S Third St,F10, , , , , ,522,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353561513388,40.112450908321,519,45,1254891.812,1011659.193,500 S Third St,F10, , , , , ,523,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2326062056733,40.1114606927392,520,43,1254527.837,1012439.32,400 E Healey St,,,,,,,524,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2329917371733,40.111454212348,521,40,1254524.675,1012309.64,400 E Healey St,F10, , , , , ,525,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2321301042546,40.1131910345585,522,19,1255157.59,1012562.647,500 S Fifth St,F10, , , , , ,526,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2321330223284,40.1132498560057,523,18,1255176.673,1012564.671,500 S Fifth St,F10, , , , , ,527,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2321330792678,40.1133056173316,524,17,1255193.861,1012564.111,500 S Fifth St,F10,F10, , , , ,528,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.232972880891,40.1130395199849,525,44,1255103.772,1012313.762,Lot A,,,,,,,529,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2329730467771,40.1130631264031,526,45,1255108.294,1012313.385,Lot A,,,,,,,530,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.232973186229,40.1130831699269,527,46,1255116.463,1012313.535,Lot A,,,,,,,531,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2329733627255,40.113108336236,528,47,1255124.221,1012313.384,Lot A,,,,,,,532,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2329735421349,40.1131339150337,529,48,1255137.229,1012313.312,Lot A,,,,,,,533,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2329737127929,40.1131582653716,530,49,1255145.232,1012312.939,Lot A,,,,,,,534,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2329738648811,40.1131800867391,531,50,1255153.504,1012312.748,Lot A,,,,,,,535,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.232974021034,40.1132023350062,532,51,1255160.744,1012312.6,Lot A,,,,,,,536,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2329741810264,40.1132251632788,533,52,1255169.165,1012312.205,Lot A,,,,,,,537,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2329743467504,40.1132488804729,534,53,1255176.831,1012313.031,Lot A,,,,,,,538,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.232974504724,40.1132714862893,535,54,1255185.065,1012312.639,Lot A,,,,,,,539,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2329746745287,40.1132956195753,536,55,1255193.748,1012312.855,Lot A,,,,,,,540,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2329750059311,40.1133430854846,537,57,1255214.188,1012312.14,Lot A,,,,,,,541,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2329751436283,40.1133627273273,538,58,1255222.317,1012311.97,Lot A,,,,,,,542,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2381300537051,40.1054114289822,539,16,1252320.189,1010882.329,100 E Armory Ave,F10, , , , , ,543,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2380590421112,40.1054145245856,540,17,1252321.338,1010902.192,100 E Armory Ave,F10, , , , , ,544,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379828869387,40.1054137756424,541,18,1252323.224,1010926.699,100 E Armory Ave,F10, , , , , ,545,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379155459881,40.105417200206,542,19,1252327.697,1010946.069,100 E Armory Ave,F10, , , , , ,546,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378364557646,40.1054134577699,543,20,1252327.426,1010967.126,100 E Armory Ave,F10, , , , , ,547,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2377281526362,40.1054130766239,544,21,1252320.91,1010994.75,100 E Armory Ave,F10, , , , , ,548,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376563956843,40.105414060298,545,22,1252319.687,1011016.424,100 E Armory Ave,F10, , , , , ,549,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2375656770973,40.1054181723368,546,23,1252320.678,1011040.197,100 E Armory Ave,F10, , , , , ,550,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2374889810126,40.1054167417484,547,24,1252324.988,1011061.651,100 E Armory Ave,F10, , , , , ,551,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2374073313976,40.1054198173416,548,25,1252326.133,1011084.489,100 E Armory Ave,F10,F10, , , , ,552,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2332095266165,40.1130401039591,549,14,1255101.359,1012246.491,Lot A,,,,,,,555,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2332096751827,40.1130611787059,550,15,1255109.683,1012246.586,Lot A,,,,,,,556,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2332098351309,40.1130840907369,551,16,1255118.546,1012246.512,Lot A,,,,,,,557,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2332099893367,40.1131061192499,552,17,1255128.265,1012247.37,Lot A, , , ,F11, ,2011,558,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2332101454765,40.1131284287595,553,18,1255137.171,1012246.32,Lot A,,,,,,,559,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2332103103603,40.1131519748342,554,19,1255146.663,1012246.499,Lot A,,,,,,,560,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2332104772851,40.113175728955,555,20,1255153.622,1012245.513,Lot A,,,,,,,561,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.233210638375,40.1131986626014,556,21,1255162.628,1012245.974,Lot A,,,,,,,562,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2332108011706,40.1132220330523,557,22,1255177.129,1012246.128,Lot A,,,,,,,563,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.233210975924,40.1132468481153,558,23,1255185.257,1012246.59,Lot A,,,,,,,564,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2332111505018,40.1132717829612,559,24,1255191.868,1012246.385,Lot A, , ,F11, , ,2011,565,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2332113230269,40.1132965178666,560,25,1255198.272,1012245.957,Lot A,,,,,,,566,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2332114890447,40.1133200909603,561,26,1255205.816,1012246.62,Lot A, , , , , , ,567,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2332116452066,40.1133423860591,562,27,1255213.936,1012245.977,Lot A, , ,F11,F11, ,2011,568,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.233211803313,40.1133649549493,563,28,1255220.726,1012246.097,Lot A, , , ,F11, ,2011,569,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2331218105698,40.1133666558551,564,29,1255218.979,1012289.366,Lot A,,,,,,,570,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2331216380214,40.1133419587761,565,30,1255210.09,1012289.421,Lot A,,,,,,,571,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2331214760353,40.1133188567125,566,31,1255202.278,1012289.537,Lot A,,,,,,,572,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2331213044236,40.113294320846,567,33,1255193.474,1012289.858,Lot A,,,,,,,573,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2331209736498,40.1132471566465,568,34,1255177.463,1012290.109,Lot A,,,,,,,574,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2331208117117,40.1132240221601,569,35,1255168.518,1012290.311,Lot A, , ,F11, , ,2011,575,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2331206507352,40.1132010317743,570,36,1255160.229,1012290.534,Lot A,,,,,,,576,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2331204829871,40.1131770606023,571,37,1255149.757,1012291.144,Lot A,,,,,,,577,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2331202959376,40.1131502560483,572,38,1255142.861,1012290.895,Lot A,,,,,,,578,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2331201290073,40.1131265271448,573,39,1255134.997,1012290.699,Lot A,,,,,,,579,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.233119973787,40.1131044103696,574,40,1255127.111,1012290.35,Lot A,,,,,,,580,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2331198109394,40.1130810966575,575,41,1255114.635,1012288.179,Lot A,,,,,,,581,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2331196587426,40.113059317619,576,42,1255106.351,1012290.722,Lot A,,,,,,,582,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2331195073237,40.1130378078679,577,43,1255136.493,1012271.891,Lot A,,,,,,,583,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2329516073455,40.1134534943999,578,36,1255253.16,1012330.34,400 E Stoughton St,,,,,,,584,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2328738040459,40.1134554866715,579,37,1255254.384,1012350.364,400 E Stoughton St,,,,,,,585,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2327976204843,40.1134560176824,580,38,1255251.714,1012370.327,400 E Stoughton St,F10, , ,F11, ,2011,586,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2327227369272,40.1134555473772,581,39,1255251.276,1012391.385,400 E Stoughton St,,,,,,,587,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.232568425261,40.1134548008054,582,40,1255250.84,1012436.91,400 E Stoughton St,,,,,,,588,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2324897978932,40.11345402088,583,41,1255250.99,1012458.029,400 E Stoughton St,F10, , , , , ,589,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2317220441759,40.1134625947868,584,42,1255258.468,1012664.86,500 E Stoughton St,,,,,,,590,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2316394535871,40.1134623313682,585,43,1255256.322,1012694.818,500 E Stoughton St,,,,,,,591,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2315599111471,40.1134639934028,586,44,1255255.648,1012717.237,500 E Stoughton St,,,,,,,592,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.23148367017,40.1134621107255,587,45,1255257.066,1012740.364,500 E Stoughton St,,,,,,,593,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2314000939559,40.1134628288511,588,46,1255257.767,1012761.178,500 E Stoughton St,,,,,,,594,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2313253828893,40.1134607519805,589,47,1255257.143,1012784.354,500 E Stoughton St,,,,,,,595,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2311111596011,40.1134637666326,590,48,1255257.36,1012844.66,500 E Stoughton St,,,,,,,596,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2310304179642,40.1134641024264,591,49,1255256.903,1012865.941,500 E Stoughton St,,,,,,,597,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2309481330665,40.1134649330438,592,50,1255257.233,1012888.607,500 E Stoughton St,,,,,,,598,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2308762391026,40.1134647505861,593,51,1255257.449,1012909.584,500 E Stoughton St,,,,,,,599,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2307911792639,40.1134660820864,594,52,1255256.403,1012930.162,500 E Stoughton St,,,,,,,600,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2307159855767,40.1134666963625,595,53,1255260.719,1012952.668,500 E Stoughton St,,,,,,,601,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2300206614242,40.1134685540452,596,54,1255259.198,1013149.678,600 E Stoughton St,,,,,,,602,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2299427044003,40.1134689690182,597,55,1255258.943,1013170.105,600 E Stoughton St,,,,,,,603,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2297476920395,40.1134739706637,598,56,1255255.665,1013225.609,600 E Stoughton St,F10,F10, , , , ,604,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2296738114942,40.1134749934205,599,57,1255259.14,1013244.109,600 E Stoughton St,,,,,,,605,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2295903509312,40.1134736875407,600,58,1255258.216,1013266.585,600 E Stoughton St,,,,,,,606,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2295127441067,40.1134744474772,601,59,1255261.742,1013292.196,600 E Stoughton St,,,,,,,607,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2294323557091,40.1134738935571,602,60,1255269.661,1013316.523,600 E Stoughton St,,,,,,,608,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2293546622254,40.1134753278778,603,61,1255273.195,1013327.301,600 E Stoughton St,,,,,,,609,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2292758920235,40.1134751472597,604,62,1255268.222,1013361.577,600 E Stoughton St,,,,,,,610,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2305050407159,40.1157892017384,605,1,1256102.571,1013012.48,100 S Sixth St,,,,,,,611,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2305042183576,40.1157370503593,606,2,1256084.674,1013013.502,100 S Sixth St,,,,,,,612,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2305036260799,40.1156731100121,607,3,1256060.405,1013013.803,100 S Sixth St,,,,,,,613,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2305047233145,40.1156175289577,608,4,1256040.266,1013013.736,100 S Sixth St,,,,,,,614,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.230505036248,40.1155569604496,609,5,1256018.201,1013013.458,100 S Sixth St,,,,,,,615,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303825319696,40.1155522728493,610,28,1256016.534,1013044.358,100 S Sixth St,,,,,,,616,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303793573934,40.1156146986026,611,27,1256034.278,1013044.135,100 S Sixth St,,,,,,,617,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303805762026,40.1156730367242,612,26,1256058.682,1013042.576,100 S Sixth St,,,,,,,618,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303795467495,40.1157263860902,613,25,1256079.636,1013042.95,100 S Sixth St,F10, , , , , ,619,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303809438092,40.1157909846085,614,24,1256102.516,1013043.508,100 S Sixth St,F10, , , , , ,620,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303850391871,40.1159401901674,615,23,1256157.541,1013041.497,100 S Sixth St, , ,F11, , ,2011,621,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303838672991,40.1159985342663,616,22,1256180.227,1013041.019,100 S Sixth St,F10, , , , , ,622,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303849887055,40.1160631280334,617,21,1256202.976,1013041.459,100 S Sixth St,F10, , , , , ,623,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2305034103968,40.1152166130685,618,6,1255890.312,1013014.381,200 S Sixth St,,,,,,,624,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2305011655579,40.115153280971,619,7,1255871.799,1013015.036,200 S Sixth St,,,,,,,625,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2305016572843,40.1150978389708,620,8,1255851.169,1013015.356,200 S Sixth St,,,,,,,626,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2305028075801,40.1148278922368,621,9,1255754.654,1013015.278,200 S Sixth St,,,,,,,627,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2305039062642,40.1146895609013,622,10,1255705.303,1013014.508,200 S Sixth St,,,,,,,628,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2305015420738,40.1146353871421,623,11,1255689.997,1013014.932,200 S Sixth St,,,,,,,629,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303797198879,40.11465320765,624,35,1255690.799,1013044.569,200 S Sixth St,,,,,,,630,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303784478578,40.1147180757964,625,34,1255711.044,1013045.939,200 S Sixth St,F10, , , , , ,631,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303825063625,40.1148356811412,626,32,1255755.186,1013045.015,200 S Sixth St,F10, , , , , ,632,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303826252962,40.1149971857195,627,31,1255813.022,1013042.83,200 S Sixth St, , ,F11, , ,2011,633,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.230380653602,40.1150600682639,628,30,1255832.891,1013045.091,200 S Sixth St,F10, ,F11, , ,2011,634,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.230381856158,40.1151229563311,629,29,1255854.932,1013046.03,200 S Sixth St,F10, , , , , ,635,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2305009896385,40.1140481101285,630,12,1255467.728,1013016.896,300 S Sixth St,,,,,,,636,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2305001182711,40.1138836508071,631,13,1255411.03,1013016.949,300 S Sixth St,,,,,,,637,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2304995477546,40.1138263012293,632,14,1255388.619,1013016.264,300 S Sixth St,,,,,,,638,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2304996143572,40.1137696195795,633,15,1255368.405,1013016.703,300 S Sixth St,,,,,,,639,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2305008801774,40.1137080062729,634,16,1255345.526,1013015.29,300 S Sixth St,,,,,,,640,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303803506579,40.1137113684047,635,44,1255344.837,1013044.877,300 S Sixth St,,,,,,,641,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303758330943,40.1137667690128,636,43,1255362.632,1013045.683,300 S Sixth St,F10, , , , , ,642,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303770655144,40.1138300615011,637,42,1255385.906,1013045.529,300 S Sixth St,F10, , , , , ,643,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303782101194,40.1138862470821,638,41,1255408.326,1013045.836,300 S Sixth St,F10,F10, , , , ,644,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303767351885,40.1140374489266,639,40,1255462.582,1013044.622,300 S Sixth St,,,,,,,645,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303769156093,40.114095940148,640,39,1255484.931,1013044.286,300 S Sixth St,F10, , , , , ,646,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303777674043,40.114151053723,641,38,1255505.268,1013045.067,300 S Sixth St,F10, , , , , ,647,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303773382706,40.1142154894238,642,37,1255530.043,1013043.597,300 S Sixth St,F10, , , , , ,648,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303792036972,40.1142720719166,643,36,1255549.873,1013044.874,300 S Sixth St,F10, , , , , ,649,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2305041574457,40.1133163410399,644,17,1255200.916,1013016.34,400 S Sixth St,,,,,,,650,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2305019834274,40.1131694184056,645,18,1255145.55,1013016.207,400 S Sixth St,,,,,,,651,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.23050053319,40.1131065940429,646,19,1255125.009,1013015.077,400 S Sixth St,F10, , , , , ,652,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2304953624249,40.1129291141482,647,20,1255060.878,1013017.379,400 S Sixth St,,,,,,,653,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303755970379,40.1130816321144,648,46,1255116.216,1013042.661,400 S Sixth St,,,,,,,654,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2303752035176,40.1131387908114,649,45,1255137.299,1013045.69,400 S Sixth St,F10, , , , , ,655,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2321366180281,40.1152162422103,650,6,1255895.339,1012557.903,200 S Fifth St,,,,,,,658,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2321374457446,40.1151611508397,651,7,1255875.27,1012556.565,200 S Fifth St,,,,,,,659,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2321372329036,40.1150958148575,652,8,1255852.771,1012556.738,200 S Fifth St,,,,,,,660,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2321378439445,40.1150365371943,653,9,1255828.747,1012556.853,200 S Fifth St,,,,,,,661,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2321377282489,40.1149784702353,654,10,1255810.024,1012556.649,200 S Fifth St,,,,,,,662,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2321348611686,40.1141594857654,655,11,1255506.256,1012560.785,300 S Fifth St,,,,,,,663,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.232134653534,40.1140977621816,656,12,1255486.94,1012559.436,300 S Fifth St,,,,,,,664,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2321331952113,40.114036201418,657,13,1255462.735,1012557.873,300 S Fifth St,,,,,,,665,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2321340220025,40.1138820089098,658,14,1255398.114,1012568.703,300 S Fifth St,F10,F10, , , , ,666,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2321333754911,40.1138219808156,659,15,1255371.494,1012563.456,300 S Fifth St,F10, , , , , ,667,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.232131934909,40.1137603263996,660,16,1255359.351,1012568.039,300 S Fifth St,F10, , , , , ,668,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2335852033792,40.1155569936757,661,4,1256019.402,1012151.574,100 S Fourth St,,,,,,,672,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2334749326088,40.1155755992189,662,41,1256025.564,1012176.678,100 S Fourth St,,,,,,,673,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.233475616328,40.1156462925129,663,42,1256061.646,1012176.892,100 S Fourth St,F10, , , , , ,674,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2334742520038,40.1157128997092,664,43,1256083.306,1012175.944,100 S Fourth St,F10, , , , , ,675,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2334739777481,40.1157752911215,665,44,1256095.198,1012174.695,100 S Fourth St,F10, , , , , ,676,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.233584234403,40.1150407639602,666,8,1255828.795,1012158.38,200 S Fourth St,,,,,,,677,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.233584796066,40.1149798984449,667,9,1255809.401,1012153.314,200 S Fourth St,,,,,,,678,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2335754974811,40.1148168368866,668,10,1255748.085,1012155.242,200 S Fourth St,,,,,,,679,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2335764760226,40.1147532590472,669,11,1255725.574,1012149.284,200 S Fourth St,,,,,,,680,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2335784454253,40.1146762753647,670,12,1255694.153,1012147.47,200 S Fourth St,,,,,,,681,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2334682971213,40.1146089191068,672,35,1255676.978,1012178.582,200 S Fourth St, , ,F11,F11, ,2011,683,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2334727395874,40.1146657415337,673,36,1255691.253,1012179.741,200 S Fourth St, ,F10,F11, , ,2011,684,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2334744378049,40.1147317398577,674,37,1255715.425,1012177.032,200 S Fourth St,F10, ,F11, , ,2011,685,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2334757776882,40.1147973190816,675,38,1255743.48,1012177.151,200 S Fourth St,F10, , , , , ,686,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2334737603456,40.1150112570727,676,39,1255818.551,1012180.102,200 S Fourth St,,,,,,,687,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2334762334083,40.1150680048469,677,40,1255835.379,1012176.724,200 S Fourth St,,,,,,,688,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2334665586666,40.1137468271882,679,28,1255358.766,1012184.109,300 S Fourth St,,,,,,,690,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2334667783788,40.1138107402026,680,29,1255381.527,1012183.5,300 S Fourth St,,,,,,,691,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.233469293651,40.1138626570749,681,30,1255398.008,1012184.165,300 S Fourth St,,,,,,,692,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2334709741287,40.1140490382767,682,31,1255474.714,1012177.932,300 S Fourth St,,,,,,,693,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2334680164213,40.1141119371468,683,32,1255494.742,1012175.783,300 S Fourth St,,,,,,,694,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2334689372216,40.1141729057194,684,33,1255511.006,1012176.173,300 S Fourth St,,,,,,,695,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2334687650869,40.1142352540065,685,34,1255514.057,1012164.954,300 S Fourth St,F10, , , , , ,696,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2354746103741,40.1157081145081,686,1,1256071.154,1011624.033,100 S Third St,,,,,,,697,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2354722953389,40.1156536995328,687,2,1256051.766,1011625.136,100 S Third St,,,,,,,698,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2354691346138,40.1155926831666,688,3,1256030.19,1011624.092,100 S Third St,,,,,,,699,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2354697907143,40.1155416921724,689,4,1256006.493,1011618.524,100 S Third St,F10, , , , , ,700,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2353885683459,40.1156938965729,690,67,1256073.162,1011644.306,100 S Third St,,,,,,,701,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2353875175954,40.1157541888793,691,68,1256094.475,1011643.273,100 S Third St,,,,,,,702,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2354712622285,40.1151959905546,692,5,1255876.14,1011627.02,200 S Third St,,,,,,,703,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2354695260608,40.1151387463016,693,6,1255864.402,1011620.923,200 S Third St,,,,,,,704,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2354690101515,40.1150821191062,694,7,1255844.852,1011640.53,200 S Third St,F10, , , , , ,705,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2354674666844,40.1148086125724,695,8,1255740.595,1011625.958,200 S Third St,,,,,,,706,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2354676093229,40.1147451114636,696,9,1255719.198,1011625.943,200 S Third St,F10, , , , , ,707,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.235466829946,40.1146865251835,697,10,1255698.204,1011625.49,200 S Third St,,,,,,,708,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2354657172002,40.1146248242617,698,11,1255673.297,1011625.826,200 S Third St,,,,,,,709,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2353791275051,40.1146057370784,699,61,1255669.496,1011642.76,200 S Third St,,,,,,,710,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2353852101644,40.1147542281793,700,62,1255723.934,1011645.166,200 S Third St,,,,,,,711,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2353846315876,40.1148116506047,701,63,1255743.637,1011644.784,200 S Third St,,,,,,,712,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2353859619513,40.1150249646271,702,64,1255820.996,1011644.326,200 S Third St,,,,,,,713,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2353868691484,40.1150835339005,703,65,1255844.068,1011645.264,200 S Third St,,,,,,,714,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2353848261767,40.1155386302775,704,66,1255999.616,1011629.019,100 S Third St,,,,,,,715,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2354647006697,40.1142415050022,705,12,1255538.825,1011628,300 S Third St,,,,,,,716,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2354661537439,40.1141844381557,706,13,1255518.167,1011626.445,300 S Third St,,,,,,,717,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2354642449128,40.1138933312647,707,14,1255413.9,1011626.271,300 S Third St,,,,,,,718,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2354640248961,40.1138250529266,708,15,1255386.988,1011626.881,300 S Third St,,,,,,,719,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2354640965065,40.1137652758299,709,16,1255364.909,1011626.451,300 S Third St,,,,,,,720,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2353710919511,40.1136297603727,710,52,1255312.62,1011651.172,300 S Third St,,,,,,,721,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.235372312171,40.1136843428599,711,53,1255332.893,1011650.548,300 S Third St,,,,,,,722,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2353735961178,40.113744382285,712,54,1255356.457,1011648.863,300 S Third St,,,,,,,723,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2353751916885,40.1138096077696,713,55,1255375.66,1011648.912,300 S Third St, , ,F11,F11, ,2011,724,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2353747582852,40.1138615040946,714,56,1255394.695,1011648.882,300 S Third St,,,,,,,725,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2353737656533,40.1140170195063,715,57,1255454.082,1011648.576,300 S Third St,,,,,,,726,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2353756210813,40.1140777303766,716,58,1255473.723,1011648.163,300 S Third St,,,,,,,727,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2353742135028,40.1141373748489,717,59,1255495.321,1011648.663,300 S Third St,,,,,,,728,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2353775348178,40.1141950968842,718,60,1255515.827,1011648.102,300 S Third St,,,,,,,729,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2328829788432,40.1125668500185,719,1,1254929.495,1012357.083,Lot R,,,,,,,730,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2328826507701,40.1125450726266,720,2,1254921.262,1012357.052,Lot R,,,,,,,731,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2328822605659,40.1125192828971,721,3,1254910.436,1012356.847,Lot R,,,,,,,732,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2328819110804,40.1124961140211,722,4,1254901.602,1012356.69,Lot R,,,,,,,733,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2328815582933,40.1124727974396,723,5,1254893.504,1012356.78,Lot R,,,,,,,734,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.23288117784,40.1124475561988,724,6,1254884.178,1012356.816,Lot R,,,,,,,735,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2328808101366,40.1124232164944,725,7,1254874.262,1012357.536,Lot R,,,,,,,736,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2328804434753,40.1123989659527,726,8,1254865.569,1012356.659,Lot R,,,,,,,737,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2328800758466,40.1123745758131,727,9,1254856.948,1012356.882,Lot R,,,,,,,738,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2328797487243,40.1123529506268,728,10,1254848.41,1012356.037,Lot R,,,,,,,739,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2328794462649,40.112332899754,729,11,1254841.501,1012355.769,Lot R,,,,,,,740,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.232879110562,40.1123107287815,730,12,1254833.813,1012355.82,Lot R,,,,,,,741,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2328787439164,40.1122864683324,731,13,1254824.584,1012356.129,Lot R,,,,,,,742,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2328783763233,40.1122620547762,732,14,1254817.515,1012356.662,Lot R,,,,,,,743,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2327324948694,40.1122584391393,733,15,1254815.71,1012382.733,Lot R,,,,,,,744,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2327328261922,40.1122803660393,734,16,1254823.702,1012383.062,Lot R,,,,,,,745,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2327349712855,40.1123514398101,735,17,1254832.506,1012387.45,Lot R,,,,,,,746,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2327342625178,40.1123755119954,736,18,1254859.535,1012385.276,Lot R,,,,,,,747,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2327346494422,40.1124011008837,737,19,1254867.945,1012386.229,Lot R,,,,,,,748,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.23273503519,40.1124266924728,738,20,1254877.014,1012386.627,Lot R,,,,,,,749,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2327353921822,40.1124503053641,739,21,1254885.48,1012385.968,Lot R,,,,,,,750,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2327357330951,40.1124728897279,740,22,1254894.241,1012386.448,Lot R,,,,,,,751,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2327360922626,40.1124966188015,741,23,1254903.013,1012386.594,Lot R,,,,,,,752,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2327364865965,40.1125227525737,742,24,1254912.266,1012386.237,Lot R,,,,,,,753,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2327368307358,40.112545535978,743,25,1254921.1,1012387.423,Lot R,,,,,,,754,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.232737182245,40.1125688903848,744,26,1254929.09,1012387.215,Lot R,,,,,,,755,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2326455919365,40.1125696609894,745,27,1254928.992,1012419.678,Lot R,,,,,,,756,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2326452221126,40.1125452249161,746,28,1254921.515,1012419.698,Lot R,,,,,,,757,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2326448694832,40.112521856098,747,29,1254913.792,1012419.937,Lot R,,,,,,,758,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2326444944058,40.1124970057326,748,30,1254904.996,1012420.172,Lot R,,,,,,,759,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2326441439449,40.1124737575999,749,31,1254894.704,1012419.08,Lot R,,,,,,,760,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2326437581659,40.1124482101413,750,32,1254885.915,1012418.909,Lot R,,,,,,,761,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.232643406563,40.1124249412931,751,33,1254877.978,1012419.837,Lot R,,,,,,,762,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2326430474864,40.1124011725915,752,34,1254869.697,1012419.791,Lot R,,,,,,,763,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.232642671289,40.1123762871001,753,35,1254860.764,1012419.419,Lot R,,,,,,,764,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2326433768754,40.112352007769,754,36,1254834.306,1012419.866,Lot R,,,,,,,765,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2326412254133,40.1122805449211,755,37,1254824.85,1012421.144,Lot R,,,,,,,766,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2326408696327,40.1122569284273,756,38,1254816.635,1012420.592,Lot R,,,,,,,767,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2324772354151,40.1122632867647,757,39,1254818.508,1012456.524,Lot R,,,,,,,768,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2324775174514,40.11228199569,758,40,1254827.27,1012457.553,Lot R,,,,,,,769,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2324778977706,40.1123072261252,759,41,1254833.929,1012459.584,Lot R,,,,,,,770,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2324782760248,40.1123322665266,760,42,1254843.428,1012454.395,Lot R,,,,,,,771,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2324786254392,40.1123553903731,761,43,1254852.059,1012450.451,Lot R,,,,,,,772,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2324789780921,40.1123787042543,762,44,1254857.254,1012454.973,Lot R,,,,,,,773,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2324793541713,40.1124036293735,763,45,1254871.188,1012452.228,Lot R,,,,,,,774,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2324797355464,40.1124289399647,764,46,1254873.975,1012460.612,Lot R,,,,,,,775,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.232480071067,40.1124511469627,765,47,1254879.774,1012458.933,Lot R,,,,,,,776,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.232480434348,40.1124752074707,766,48,1254894.535,1012453.349,Lot R,,,,,,,777,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2324808093603,40.1125000614392,767,49,1254899.557,1012459.686,Lot R,,,,,,,778,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2324811641664,40.1125235068128,768,50,1254911.915,1012460.316,Lot R,,,,,,,779,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2324815616226,40.1125498432291,769,51,1254920.263,1012455.625,Lot R,,,,,,,780,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2324818479659,40.112568814239,770,52,1254922,1012458.101,Lot R,,,,,,,781,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2321244688828,40.1125137931517,771,20,1254905.891,1012565.344,500 S 5th St, ,F10, , , , ,782,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2321227772221,40.1124466600016,772,21,1254885.017,1012565.412,500 S 5th St,,,,,,,783,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2321171718412,40.1122952627735,773,22,1254828.675,1012565.247,500 S 5th  St,,,,,,,784,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2321173190875,40.112129462372,774,23,1254769.144,1012565.968,500 S 5th  St,,,,,,,785,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2321139761555,40.1120700479305,775,24,1254748.369,1012565.366,500 S 5th  St,,,,,,,786,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2321171084299,40.112008860413,776,25,1254726.252,1012566.425,500 S 5th  St,,,,,,,787,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2321146653867,40.1119501033123,777,26,1254705.369,1012566.612,500 S 5th St,,,,,,,788,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2323332818139,40.1114623058522,778,45,1254529.73,1012501.587,400 E Healey St,F10, , , , , ,790,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2323961637763,40.1114602532066,779,44,1254522.557,1012483.135,400 E Healey St,,,,,,,791,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2326853955334,40.1114602824475,780,42,1254527.643,1012412.238,400 E Healey St, , ,F11, , ,2011,792,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2329086718959,40.1114561433465,781,41,1254526.148,1012331.662,400 E Healey St,F10, , , , , ,793,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.233068160736,40.1114540704862,782,39,1254525.172,1012286.529,400 E Healey St,F10, ,F11, , ,2011,794,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2331442556302,40.1114532879453,783,38,1254524.328,1012263.998,400 E Healey St,,,,,,,795,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2357291451134,40.1114327695862,784,23,1254516.022,1011550.322,200 E Healey St, , ,F11, , ,2011,797,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2358088975626,40.1114334554949,785,22,1254515.922,1011528.557,200 E Healey St,,,,,,,798,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2358925307796,40.111432119108,786,21,1254514.758,1011505.6,200 E Healey St,,,,,,,799,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2359672280018,40.1114317532278,787,20,1254515.47,1011484.924,200 E Healey St,,,,,,,800,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2360432094347,40.1114307075057,788,19,1254515.608,1011463.022,200 E Healey St,F10, , , , , ,801,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.236121164978,40.1114313214413,789,18,1254516.459,1011441.434,200 E Healey St,F10, , , , , ,802,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2362002186186,40.1114285075659,790,17,1254515.085,1011419.324,200 E Healey St,F10, , , , , ,803,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2362778327339,40.1114291841534,791,16,1254516.176,1011396.747,200 E Healey St,F10, , , , , ,804,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2363523480919,40.1114280253225,792,15,1254515.296,1011377.75,200 E Healey St,,,,,,,805,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2364326540887,40.1114287824145,793,14,1254514.029,1011353.986,200 E Healey St, , , ,F11, ,2011,806,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.236519655301,40.1114263505306,794,13,1254513.117,1011331.713,200 E Healey St,F10, , , , , ,807,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2365952378717,40.1114269846792,795,12,1254509.964,1011307.645,200 E Healey St,F10, , , , , ,808,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2375284949497,40.1114198889269,796,9,1254513.235,1011094.379,100 E Healey St,,,,,,,810,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2376064944189,40.1114184556791,797,8,1254512.298,1011071.522,100 E Healey St,,,,,,,811,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2376840019513,40.1114190213599,798,7,1254510.448,1011046.996,100 E Healey St,F10, , , , , ,812,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2377622959072,40.111418374496,799,6,1254510.497,1011027.28,100 E Healey St,F10, , , , , ,813,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2378441262633,40.1114178277622,800,5,1254509.394,1011004.405,100 E Healey St,F10, , , , , ,814,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2379216209105,40.1114158634179,801,4,1254515.586,1010982.585,100 E Healey St,F10, ,F11, , ,2011,815,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2379917545736,40.1114151088064,802,3,1254510.443,1010964.807,100 E Healey St,F10, , , , , ,816,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2380687898945,40.1114136339255,803,2,1254511.184,1010941.569,100 E Healey St,F10, , , , , ,817,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2381253747597,40.1114134886191,804,1,1254507.46,1010879.358,100 E Healey St,F10,F10, , , , ,818,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2393245298537,40.1114031805883,805,2a,1254506.178,1010541.601,1-99 E Healey St,F10, , ,F11, ,2011,820,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2394014821509,40.1114023405948,806,1a,1254507.021,1010523.202,1-99 E Healey St,F10, , ,F11, ,2011,821,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2336446189739,40.1120145289166,807,16,1254726.766,1012132.291,500 S Fourth St, , , ,F11, ,2011,822,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.233641831536,40.1118589480705,808,17,1254682.592,1012144.505,500 S Fourth St,,,,,,,823,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2336413913621,40.1117989003272,809,18,1254641.213,1012136.656,500 S Fourth St,F10, , , , , ,824,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2336381868074,40.1117378090813,810,19,1254627.252,1012139.793,500 S Fourth St,,,,,,,825,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2336373559438,40.1116802323152,811,20,1254605.321,1012142.352,500 S Fourth St,F10, , , , , ,826,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2335135481864,40.1116635028467,812,21,1254640.867,1012207.821,500 S Fourth St, ,F10, , , , ,827,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2335140928906,40.1117225789077,813,22,1254614.999,1012164.473,500 S Fourth St,,,,,,,828,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2335147989785,40.1117787803125,814,23,1254638.871,1012167.253,500 S Fourth St,,,,,,,829,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2335165091817,40.1118381671917,815,24,1254661.025,1012168.597,500 S Fourth St,,,,,,,830,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2335187545464,40.1119069948817,816,25,1254694.285,1012175.787,500 S Fourth St,F10, , , , , ,831,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2335179739504,40.1119635444459,817,26,1254722.169,1012168.441,500 S Fourth St,F10, , , , , ,832,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2335202788788,40.1120261335572,818,27,1254720.019,1012166.922,500 S Fourth St,F10, , , , , ,833,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2370279423748,40.1112526978732,819,4,1254449.204,1011180.33,600 S Second St,F10, , , , , ,834,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.237028242011,40.1112015930564,820,3,1254437.374,1011192.129,600 S Second St,F10, , , , , ,835,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2370260256454,40.111136324719,821,2,1254405.358,1011186.421,600 S Second St,F10, , , , , ,836,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2370258774321,40.1110792375772,822,1,1254384.692,1011186.615,600 S Second St,F10,F10, , , , ,837,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2354495348982,40.1109069838,823,29,1254320.167,1011630.628,600 S Third St,F10, , , , , ,838,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.235451770709,40.1109658136175,824,28,1254341.597,1011630.847,600 S Third St,F10, , , , , ,839,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354526617591,40.1110274711612,825,27,1254362.148,1011630.052,600 S Third St,F10, , , , , ,840,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354534350649,40.111087804686,826,26,1254384.821,1011629.638,600 S Third St,F10, , , , , ,841,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354538228664,40.1111486746568,827,25,1254408.21,1011629.158,600 S Third St,F10, , , , , ,842,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354569227634,40.1112077907001,828,24,1254430.612,1011627.746,600 S Third St,F10, , , , , ,843,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2354581418584,40.1112697250103,829,23,1254455.083,1011627.901,600 S Third St,F10,F10, , , , ,844,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353491549014,40.1111239081317,830,32,1254400.783,1011657.228,600 S Third St,F10,F10, , , , ,845,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353439740829,40.1109897043139,831,31,1254355.021,1011659.079,600 S Third St,,,,,,,846,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2353443504405,40.1109277001999,832,30,1254332.434,1011657.956,600 S Third St,F10, , , , , ,847,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2362850180115,40.1153469777703,833,13,1255942.192,1011392.919,200 E Clark St,F11, ,F11,F11, ,2011,848,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2362059297661,40.1153486658905,834,14,1255938.73,1011416.889,200 E Clark St,F11, ,F11,F11, ,2011,849,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2361282369721,40.1153482152444,835,15,1255939.892,1011435.103,200 E Clark St,F11, ,F11,F11, ,2011,850,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2360445258995,40.1153497858959,836,16,1255939.317,1011461.091,200 E Clark St,F11, ,F11,F11, ,2011,851,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2359684035943,40.1153503154405,837,17,1255940.185,1011483.813,200 E Clark St,F11, ,F11,F11, ,2011,852,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.235890579059,40.115350116699,838,18,1255937.542,1011506.231,200 E Clark St,F11, ,F11,F11, ,2011,853,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2358108190525,40.1153490543781,839,19,1255938.862,1011529.06,200 E Clark St,F11, ,F11,F11, ,2011,854,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2357366747112,40.1153502627053,840,20,1255939.195,1011548.885,200 E Clark St,F11, ,F11,F11, ,2011,855,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2349557579064,40.1153550985461,841,21,1255944.777,1011768.421,300 E Clark St,F10,F10, , , , ,856,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2348724134377,40.1153545936233,842,22,1255943.751,1011789.778,300 E Clark St,F10, , , , , ,857,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2347964474847,40.1153548802626,843,23,1255944.53,1011811.893,300 E Clark St,F10, , , , , ,858,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2347180752247,40.1153562428506,844,24,1255944.834,1011831.642,300 E Clark St,F10, , , , , ,859,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2346320947813,40.1153558291753,845,25,1255945.361,1011857.208,300 E Clark St,F10, , , , , ,860,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2345650118769,40.115356431246,846,26,1255945.601,1011878.574,300 E Clark St,F10, , , , , ,861,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2344810159483,40.1153578357102,847,27,1255947.744,1011899.723,300 E Clark St,F10, , , , , ,862,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2344000004159,40.1153586518498,848,28,1255947.068,1011924.507,300 E Clark St,F10, , , , , ,863,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2343230703326,40.115358853597,849,29,1255945.126,1011946.761,300 E Clark St,F10, , ,F11, ,2011,864,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2342479949243,40.1153598061992,850,30,1255944.629,1011964.807,300 E Clark St,F10, , , , , ,865,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2341639683847,40.115360472796,851,31,1255944.984,1011988.395,300 E Clark St,F10, , , , , ,866,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2340837839796,40.1153600591732,852,32,1255943.557,1012009.779,300 E Clark St,F10, , , , , ,867,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2340075918545,40.1153601838894,853,33,1255944.407,1012031.089,300 E Clark St,F10, , , , , ,868,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2339385112293,40.1153599850302,854,34,1255943.749,1012050.93,300 E Clark St,F10, , , , , ,869,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2337958292751,40.1153602344545,855,35,1255944.578,1012092.399,300 E Clark St, , , ,F11, ,2011,870,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2333086421218,40.1153631272355,856,1a,1255944.661,1012227.277,400 E Clark St,F10,F10,F11,F11, ,2011,871,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2332396407304,40.1153632918801,857,2a,1255942.016,1012249.747,400 E Clark St,F10, ,F11,F11, ,2011,872,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2331629108168,40.1153629760713,858,3a,1255948.988,1012268.286,400 E Clark St,F10, ,F11,F11, ,2011,873,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2330898882045,40.1153639432075,859,4a,1255949.45,1012289.577,400 E Clark St,F11, ,F11,F11, ,2011,874,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2330146937429,40.1153636754619,860,5a,1255946.71,1012308.33,400 E Clark St,F11, ,F11,F11, ,2011,875,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2329359806947,40.1153638225072,861,6a,1255941.059,1012333.348,400 E Clark St,F10, ,F11,F11, ,2011,876,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2328538876747,40.115364251164,862,7a,1255941.675,1012358.738,400 E Clark St,F10, , , , , ,877,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2327651357799,40.1153651152869,863,36,1255948.922,1012383.506,400 E Clark St,,,,,,,878,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2326898628824,40.115364740088,864,37,1255943.401,1012401.448,400 E Clark St, , ,F11,F11, ,2011,879,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2326130920279,40.115365141677,865,38,1255944.833,1012423.496,400 E Clark St,,,,,,,880,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2325346452694,40.1153660767274,866,39,1255946.327,1012444.915,400 E Clark St,F10, , , , , ,881,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2316667975534,40.1153688585482,867,40,1255950.78,1012686.185,500 E Clark St,F10,F10,F11, , ,2011,882,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2315864152649,40.1153697804499,868,41,1255956.635,1012715.942,500 E Clark St,,,,,,,883,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.231509217176,40.1153695513954,869,42,1255953.158,1012731.715,500 E Clark St,,,,,,,884,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2314229488529,40.1153710354021,870,43,1255953.032,1012752.232,500 E Clark St,F10, , , , , ,885,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2313554513885,40.1153695701174,871,44,1255954.117,1012775.068,500 E Clark St,F10, , , , , ,886,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2312702918662,40.1153700877161,872,45,1255972.008,1012813.761,500 E Clark St,F10, , , , , ,887,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.231196835088,40.1153703399818,873,46,1255953.685,1012814.778,500 E Clark St,,,,,,,888,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2311163116407,40.1153707354681,874,47,1255960.999,1012843.117,500 E Clark St,F10, ,F11, , ,2011,889,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2310230256723,40.1153725191956,875,48,1255955.391,1012865.873,500 E Clark St,F10, ,F11, , ,2011,890,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.230944350294,40.1153733511964,876,49,1255951.507,1012887.044,500 E Clark St,F10, , , , , ,891,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2308654787494,40.1153712334254,877,50,1255964.624,1012918.424,500 E Clark St,F10, , , , , ,892,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2307860225889,40.1153733146945,878,51,1255949.176,1012935.168,500 E Clark St,F10, ,F11, , ,2011,893,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2307171309771,40.1153737931519,879,52,1255951.324,1012955.584,500 E Clark St,F10, ,F11,F11, ,2011,894,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2376402510052,40.1051127065242,880,10,1252200.049,1010990.231,1100 S Second St,F10, ,F11,F11, ,2011,895,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376394257248,40.1050512975606,881,09,1252188.061,1011022.532,1100 S Second St,F10, , ,F11, ,2011,896,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376372660294,40.1049913402036,882,08,1252166.221,1011022.943,1100 S Second St,F10,F10, , , , ,897,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376387304111,40.1048485813843,883,07,1252113.564,1011023.674,1100 S Second St,F10, , , , , ,898,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376393281369,40.1047928088106,884,06,1252094.332,1011023.529,1100 S Second St,F10,F10, , , , ,899,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376372724051,40.104626849653,885,05,1252033.225,1011024.907,1100 S Second St,F10, , , , , ,900,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376364247613,40.1045680137544,886,04,1252016.373,1011029.411,1100 S Second St,F10,F10, , , , ,901,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376316875413,40.1043914150801,887,03,1251949.155,1011027.994,1100 S Second St,F10, , , , , ,902,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376292120941,40.1043266346025,888,02,1251925.817,1011027.93,1100 S Second St,F10, , , , , ,903,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376278367527,40.1042610462709,889,01,1251902.316,1011027.95,1100 S Second St,F10, , , , , ,904,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2366018709267,40.1045120054583,890,01,1251997.237,1011310.643,1100 S Arbor St,,,,,,,905,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2365998955826,40.1045734553258,891,2,1252015.065,1011310.933,1100 S Arbor St,,,,,,,906,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2366027438499,40.1046302061518,892,3,1252038.298,1011311.242,1100 S Arbor St,F10,F10, ,F11, ,2011,907,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2374813508349,40.1065862953486,893,78,,,100 E Chalmers St,F10, , , , , ,910,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2375536913183,40.1065857634796,894,79,,,100 E Chalmers St,F10, , , , , ,911,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376320255341,40.1065859128877,895,80,,,100 E Chalmers St,F10, , , , , ,912,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2377081055729,40.1065851282342,896,81,,,100 E Chalmers St,F10, , , , , ,913,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2377864010349,40.1065861502123,897,82,,,100 E Chalmers St,F10, , , , , ,914,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2378662493303,40.1065855567942,898,83,,,100 E Chalmers St,F10, , , , , ,915,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2380773788128,40.1065809419912,899,84,,,100 E Chalmers St,F10, , , , , ,916,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2381516545636,40.1065812561272,900,85,,,100 E Chalmers St,,,,,,,917,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2381553655271,40.1065022103536,901,16,1252723.104,1010877.005,100 E Chalmers St,F10,F10, , , , ,918,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2380774044821,40.1065045158115,902,17,1252721.046,1010913.079,100 E Chalmers St,,,,,,,919,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379995708968,40.1065062539277,903,18,1252731.534,1010912.159,100 E Chalmers St,F10, , , , , ,920,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2379186891553,40.1065061630115,904,19,1252709.552,1010944.107,100 E Chalmers St,F10, , , , , ,921,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2377126978982,40.1065077565653,905,20,1252719.505,1010998.775,100 E Chalmers St, ,F10, , , , ,922,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2376437267011,40.1065078319981,906,21,1252719.693,1011024.838,100 E Chalmers St,F10, , , , , ,923,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2375672453691,40.1065071203382,907,22,1252722.278,1011043.975,100 E Chalmers St,F10, , , , , ,924,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2374934710676,40.1065064225758,908,23,1252720.267,1011066.087,100 E Chalmers St,F10, , , , , ,925,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2373134884758,40.1065124265871,909,24,1252721.987,1011114.823,100 E Chalmers St,F10,F10, , , , ,926,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2372362208525,40.1065111997995,910,25,1252720.566,1011137.088,100 E Chalmers St,F10, , , , , ,927,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2360443229056,40.1065253109968,911,31,1252723.919,1011466.918,200 E Chalmers St,F10,F10, , , , ,928,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2359746276966,40.1065272527254,912,32,1252727.318,1011484.81,200 E Chalmers St,F10, , , , , ,929,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2358951718144,40.1065282387431,913,33,1252725.031,1011505.967,200 E Chalmers St,F10, , , , , ,930,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2356816533932,40.1065261252837,914,34,1252726.997,1011566.761,200 E Chalmers St,F10,F10, , , , ,931,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2356095279275,40.1065952802438,915,66,1252751.235,1011587.343,200 E Chalmers St,F10,F10, , , , ,933,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2356903244518,40.1065951592524,916,67,1252747.936,1011558.816,200 E Chalmers St,F10, , , , , ,934,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2357655556198,40.1065950019947,917,68,1252750.218,1011542.18,200 E Chalmers St,F10, , , , , ,935,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2358464918343,40.1065947999557,918,69,1252747.028,1011509.614,200 E Chalmers St,F10, , , , , ,936,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2359210006263,40.1065929064833,919,70,1252747.878,1011492.268,200 E Chalmers St,F10, , , , , ,937,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2360023748996,40.1065939502692,920,71,1252747.191,1011472.239,200 E Chalmers St,F10, , , , , ,938,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2360798683566,40.1065923086759,921,72,1252747.329,1011452.082,200 E Chalmers St,,,,,,,939,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2361591307203,40.1065921905724,922,73,1252748.021,1011431.105,200 E Chalmers St,F10, , , , , ,940,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2364457413183,40.1065163214917,923,26,1252723.951,1011353.36,200 E Chalmers St,F10,F10, , , , ,941,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2363662698148,40.1065175843117,924,27,1252725.738,1011378.519,200 E Chalmers St,F10, , , , , ,942,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2362880259251,40.1065183086308,925,28,1252725.266,1011400.948,200 E Chalmers St,F10, , , , , ,943,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2338378860501,40.1054428991547,926,47,1252309.589,1012071.35,300 E Armory Ave,F10, , , , , ,945,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2339179951225,40.1054427481872,927,46,1252332.94,1012058.684,300 E Armory Ave,F10, , , , , ,946,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2339967088844,40.1054415044091,928,45,1252330.196,1012038.385,300 E Armory Ave,F10, , , , , ,947,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2340699371959,40.1054401847273,929,44,1252329.953,1012015.298,300 E Armory Ave,,,,,,,948,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2343104855796,40.1054384560799,930,43,1252326.287,1011951.066,300 E Armory Ave,F10,F10, , , , ,949,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2343860093287,40.1054362429384,931,42,1252330.238,1011923.438,300 E Armory Ave,F10, , , , , ,950,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2344629594572,40.1054355377124,932,41,1252326.044,1011906.855,300 E Armory Ave,F10, , , , , ,951,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2346623528643,40.1054369055743,933,40,1252326.881,1011852.842,300 E Armory Ave, ,F10, , , , ,952,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2347382873267,40.1054353536124,934,39,1252327.855,1011832.383,300 E Armory Ave,F10, , , , , ,953,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2348181888681,40.1054351478081,935,38,1252330.843,1011807.415,300 E Armory Ave,F10, , , , , ,954,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2349696294857,40.1065282904265,936,36,1252729.134,1011767.23,300 E Chalmers St,F10,F10, , , , ,955,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2348910596132,40.1065289387731,937,37,1252729.395,1011789.989,300 E Chalmers St,F10, , , , , ,956,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2348088154253,40.1065317652567,938,38,1252729.061,1011813.253,300 E Chalmers St,,,,,,,957,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.234732313353,40.1065324233602,939,39,1252727.882,1011836.702,300 E Chalmers St,F10, , , , , ,958,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2346545751715,40.1065338053638,940,40,1252727.315,1011860.607,300 E Chalmers St,F10, , , , , ,959,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2345761088918,40.1065341860992,941,41,1252727.448,1011882.121,300 E Chalmers St,,,,,,,960,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2344988532757,40.1065344057019,942,42,1252728.173,1011905.063,300 E Chalmers St,F10, , , , , ,961,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2344185898242,40.1065341768747,943,43,1252728.174,1011928.96,300 E Chalmers St,F10, , , , , ,962,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2343396271778,40.1065363339606,944,44,1252728.247,1011949.346,300 E Chalmers St,F10, , , , , ,963,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2342623192318,40.1065362408437,945,45,1252730.009,1011967.251,300 E Chalmers St,F10, , , , , ,964,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2341857415538,40.1065364563143,946,46,1252730.659,1011988.362,300 E Chalmers St,F10, , , , , ,965,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2341061530793,40.1065374554012,947,47,1252732.697,1012009.626,300 E Chalmers St,F10, , , , , ,966,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2340290529388,40.1065388357303,948,48,1252745.469,1012047.494,300 E Chalmers St,F10, , , , , ,967,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2339519981885,40.106538844394,949,49,1252731.058,1012062.208,300 E Chalmers St,F10, , , , , ,968,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.233879520666,40.1065384561583,950,50,1252731.995,1012076.292,300 E Chalmers St,F10, , , , , ,969,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2338302447971,40.1066117526915,951,53,1252755.812,1012086.166,300 E Chalmers St,F10, , , , , ,972,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2339025224183,40.1066109321468,952,54,1252758.79,1012067.511,300 E Chalmers St,F10, , , , , ,973,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2341349777415,40.1066080441171,953,57,1252758.62,1012005.354,300 E Chalmers St,F10, , , , , ,976,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2342120570624,40.1066081308191,954,58,1252756.457,1011976.328,300 E Chalmers St,,,,,,,977,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2342946892038,40.1066080015645,955,59,1252750.796,1011943.206,300 E Chalmers St,,,,,,,978,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2343726225209,40.1066063831046,956,60,1252752.506,1011932.718,300 E Chalmers St,,,,,,,979,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2344533462387,40.106606332262,957,61,1252755.032,1011908.315,300 E Chalmers St,F10, , , , , ,980,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2345279271655,40.1066064994784,958,62,1252755.765,1011886.845,300 E Chalmers St,F10, , , , , ,981,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2368008616747,40.1078915050017,959,29,0,0,200 e daniel,F10,F10, , , , ,982,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.235723113618,40.1054326077386,960,35,0,0,200 e armory,F10, , , , , ,983,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2356404868868,40.1054340502293,961,36,0,0,200 e armory,F10, , , , , ,984,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2355639563109,40.1054333624229,962,37,0,0,200 e armory,F10, , , , , ,985,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2367967618088,40.1065858510867,963,74,0,0,200 e chalmer,F10, , , , , ,986,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2329748392772,40.1133192025752,964,56,0,0,lot a, , , , , , ,987,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2331211491815,40.1132722184815,965,32,0,0,lot a,,,,,,,988,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.230379693057,40.1147744613968,966,33,0,0,200 s 6th,F10, , , , , ,989,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2369874059087,40.1122390790268,968,05,1254807.731,1011197.493,500 S Second St,,,,,,,991,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2369882178509,40.1122904576484,969,07,1254824.579,1011197.527,500 S Second St,,,,,,,992,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2369885936644,40.1123142434633,970,08,1254832.832,1011197.924,500 S Second St,,,,,,,993,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2369893787614,40.1123638658434,971,10,1254851.25,1011196.698,500 S Second St,,,,,,,994,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2369897372843,40.1123866051175,972,11,1254861.406,1011197.139,500 S Second St,,,,,,,995,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.236990126101,40.1124111519708,973,12,1254870.14,1011197.171,500 S Second St,,,,,,,996,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2369905136724,40.1124357501586,974,13,1254879.451,1011200.787,500 S Second St,,,,,,,997,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2369908712531,40.1124583264186,975,14,1254888.502,1011198.78,500 S Second St,,,,,,,998,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2369889641278,40.1123376645206,976,09,1254842.624,1011198.472,500 S Second St,,,,,,,999,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2369877828718,40.1122628810542,977,06,1254818.003,1011198.765,500 S Second St,,,,,,,1000,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2371274736524,40.1123612841599,978,16,1254849.18,1011170.123,500 S Second St,,,,,,,1001,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2371267779107,40.1123364182307,979,15,1254839.692,1011168.015,500 S Second St,,,,,,,1002,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2371271306047,40.1123858042868,980,17,1254844.677,1011164.415,500 S Second St,,,,,,,1003,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2371279154257,40.1124598372005,981,20,1254890.784,1011167.193,500 S Second St,,,,,,,1004,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2371283207284,40.1124369211384,982,19,1254881.654,1011163.381,500 S Second St,,,,,,,1005,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2371286664897,40.1124812384714,983,21,1254898.797,1011167.8,500 S Second St,,,,,,,1006,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2371262292111,40.1124103230492,984,18,1254868.489,1011171.157,500 S Second St,,,,,,,1007,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2424271615804,40.1203157291096,985,14,,,500 Hickory St,,,,,,former meter space 2015,1008,$390(6m)/$741(1y),Call 217-403-4700,Hickory St
+-88.2424287989937,40.1203749626091,986,15,,,500 Hickory St,,,,,,former meter space 2016,1009,$390(6m)/$741(1y),Call 217-403-4700,Hickory St
+-88.242430061943,40.1204334924269,987,16,,,500 Hickory St,,,,,,former meter space 2017,1010,$390(6m)/$741(1y),Call 217-403-4700,Hickory St
+-88.2380011336779,40.1071747320357,989,51,,,900 S First St,,,,,,Parkette 154,1102,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2380018497108,40.1071936574719,990,52,,,900 S First St,,,,,,Parkette 154,1103,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2380027399515,40.1072171825466,991,53,,,900 S First St,,,,,,Parkette 154,1104,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2380038936996,40.1072477147056,992,54,,,900 S First St,,,,,,Parkette 154,1105,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2380049411617,40.107275405303,993,55,,,900 S First St,,,,,,Parkette 154,1106,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2380059003609,40.1073007866235,994,56,,,900 S First St,,,,,,Parkette 154,1107,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2380072860564,40.107337409904,995,57,,,900 S First St,,,,,,Parkette 154,1108,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2380083685551,40.1073660506898,996,58,,,900 S First St,,,,,,Parkette 154,1109,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2380092361603,40.1073889894378,997,59,,,900 S First St,,,,,,Parkette 154,1110,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2321376958429,40.1142136653109,999,10A,,,300 S Fifth St,,,,,,,1112,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2367331680504,40.1134315133062,1000,15,,,200 Stoughton St,,,,,,,1113,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2366502990134,40.1134332310003,1001,16,,,200 Stoughton St,,,,,,,1114,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2365702291601,40.1134313772951,1002,17,,,200 Stoughton St,,,,,,,1115,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2364896878894,40.113432739271,1003,18,,,200 Stoughton St,,,,,,,1116,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2364114765728,40.1134330313973,1004,19,,,200 Stoughton St,,,,,,,1117,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2363355930263,40.1134329678722,1005,20,,,200 Stoughton St,,,,,,,1118,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2362597116698,40.1134321892033,1006,21,,,200 Stoughton St,,,,,,,1119,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2361824305544,40.1134324819546,1007,22,,,200 Stoughton St,,,,,,,1120,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2361004954222,40.1134324131993,1008,23,,,200 Stoughton St,,,,,,,1121,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2360199573516,40.1134323455599,1009,24,,,200 Stoughton St,,,,,,,1122,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2359398837955,40.1134322782551,1010,25,,,200 Stoughton St,,,,,,,1123,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2358639976989,40.1134340021589,1011,26,,,200 Stoughton St,,,,,,,1124,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2357867177546,40.1134342937465,1012,27,,,200 Stoughton St,,,,,,,1125,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2357085084778,40.1134331561085,1013,28,,,200 Stoughton St,,,,,,,1126,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2403530036686,40.1092240592547,1014,7A,,,700 locust St,,,,,,,1127,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403568040106,40.1091680623218,1015,7B,,,700 locust St,,,,,,,1128,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2412237893435,40.1090189900371,1016,AA,,,20 E John St,,,,,,,1129,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2411510914309,40.1090200039461,1017,BB,,,20 E John St,,,,,,,1135,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2410768424747,40.1090195872816,1018,CC,,,20 E John St,,,,,,,1130,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2409963079861,40.1090207146344,1019,DD,,,30 E John St,,,,,,,1131,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2409241539009,40.1090202995421,1020,EE,,,30 E John St,,,,,,,1132,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2415917689179,40.1081626458846,1021,11,,,800 S Oak St,,,,,,,1133,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2370489962791,40.1067687808854,1022,16A,,,900 S Second St,,,,,,,1134,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.242548067528,40.1205863064318,1023,8,,,500 Hickory St,,,,,,,1136,$390(6m)/$741(1y),Call 217-403-4700,Hickory St
+-88.2425536700398,40.1206210127504,1024,7,,,500 Hickory St,,,,,,,1137,$390(6m)/$741(1y),Call 217-403-4700,Hickory St
+-88.2425576491766,40.1206634730658,1025,6,,,500 Hickory St,,,,,,,1138,$390(6m)/$741(1y),Call 217-403-4700,Hickory St
+-88.2425606563142,40.1206923016812,1026,5,,,500 Hickory St,,,,,,,1139,$390(6m)/$741(1y),Call 217-403-4700,Hickory St
+-88.2425577568092,40.1207351501772,1027,4,,,500 Hickory St,,,,,,,1140,$390(6m)/$741(1y),Call 217-403-4700,Hickory St
+-88.242559216006,40.120767934919,1028,3,,,500 Hickory St,,,,,,,1141,$390(6m)/$741(1y),Call 217-403-4700,Hickory St
+-88.2382231533559,40.1065820776895,1029,86,1252740.111,1010860.979,100 E Chalmers St,,,,,,,1142,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2425646173603,40.12090805366,1030,2,,,500 Hickory St,,,,,,,1143,$390(6m)/$741(1y),Call 217-403-4700,Hickory St
+-88.2425645628576,40.1209490400935,1031,1,,,500 Hickory St,,,,,,,1144,$390(6m)/$741(1y),Call 217-403-4700,Hickory St
+-88.2333609864371,40.1133384100118,1032,B,,,Lot A,,,,,,,1146,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2333618825705,40.1133624781783,1033,A,,,Lot A,,,,,,,1147,$495,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 4
+-88.2376438805237,40.1079525185158,1034,76,1253243.096,1010996.189,100 E Daniel St,,,,,,,436,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2403520063492,40.1086729729841,1037,08A,,,800 S Locust St, , , ,F11, ,2018,1149,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2403423913135,40.1071556048489,1038,21A,,,900 S locust St,,,,,,,1152,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2416039136398,40.1088025219777,1039,00,,,800 S Oak St, , ,F11, , ,,1150,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.241584260694,40.1070174701633,1041,14A,,,900 S Oak St,,,,,,,1153,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2400139355735,40.1065497113215,1042,07,,,1-99 E Chalmers St,F10,F10, , , , ,1151,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2453689337371,40.1188012584912,1437,RH1,,,Lot Randolph and Hill,,,,,,LOT RANDOLPH &HILL,,$180(6m)/$342(1y),Call 217-403-4700,Randolph & Hill Lot
+-88.2453675967838,40.1188756048766,1438,RH4,,,Lot Randolph and Hill,,,,,,LOT RANDOLPH &HILL,,$180(6m)/$342(1y),Call 217-403-4700,Randolph & Hill Lot
+-88.245367627491,40.1188517752931,1439,RH3,,,Lot Randolph and Hill,,,,,,LOT RANDOLPH &HILL,,$180(6m)/$342(1y),Call 217-403-4700,Randolph & Hill Lot
+-88.2453655472873,40.1189284609341,1440,RH6,,,Lot Randolph and Hill,,,,,,LOT RANDOLPH &HILL,,$180(6m)/$342(1y),Call 217-403-4700,Randolph & Hill Lot
+-88.2453682549252,40.1188992539578,1441,RH5,,,Lot Randolph and Hill,,,,,,LOT RANDOLPH &HILL,,$180(6m)/$342(1y),Call 217-403-4700,Randolph & Hill Lot
+-88.2453676628032,40.1188243720375,1442,RH2,,,Lot Randolph and Hill,,,,,,LOT RANDOLPH &HILL,,$180(6m)/$342(1y),Call 217-403-4700,Randolph & Hill Lot
+-88.245515342197,40.1189455405627,1443,RH18,,,Lot Randolph and Hill,,,,,,LOT RANDOLPH &HILL,,$180(6m)/$342(1y),Call 217-403-4700,Randolph & Hill Lot
+-88.2455122606488,40.1190465891219,1444,RH14,,,Lot Randolph and Hill,,,,,,LOT RANDOLPH &HILL,,$180(6m)/$342(1y),Call 217-403-4700,Randolph & Hill Lot
+-88.2455142547378,40.1188734898296,1445,RH21,,,Lot Randolph and Hill,,,,,,LOT RANDOLPH &HILL,,$180(6m)/$342(1y),Call 217-403-4700,Randolph & Hill Lot
+-88.2455135049258,40.1189967441384,1446,RH16,,,Lot Randolph and Hill,,,,,,LOT RANDOLPH &HILL,,$180(6m)/$342(1y),Call 217-403-4700,Randolph & Hill Lot
+-88.2455154599522,40.1188540057461,1447,RH22,,,Lot Randolph and Hill,,,,,,LOT RANDOLPH &HILL,,$180(6m)/$342(1y),Call 217-403-4700,Randolph & Hill Lot
+-88.2455135987823,40.1189237882741,1448,RH19,,,Lot Randolph and Hill,,,,,,LOT RANDOLPH &HILL,,$180(6m)/$342(1y),Call 217-403-4700,Randolph & Hill Lot
+-88.245514655352,40.1190207619467,1449,RH15,,,Lot Randolph and Hill,,,,,,LOT RANDOLPH &HILL,,$180(6m)/$342(1y),Call 217-403-4700,Randolph & Hill Lot
+-88.2455142197613,40.1189006778362,1450,RH20,,,Lot Randolph and Hill,,,,,,LOT RANDOLPH &HILL,,$180(6m)/$342(1y),Call 217-403-4700,Randolph & Hill Lot
+-88.2455147188943,40.1189713690814,1451,RH17,,,Lot Randolph and Hill,,,,,,LOT RANDOLPH &HILL,,$180(6m)/$342(1y),Call 217-403-4700,Randolph & Hill Lot
+-88.2455125428056,40.1188272676141,1452,RH23,,,Lot Randolph and Hill,,,,,,LOT RANDOLPH &HILL,,$180(6m)/$342(1y),Call 217-403-4700,Randolph & Hill Lot
+-88.2403449689793,40.107590896399,1837,15A,1253163.856,1010269.204,900 S locust St, , ,F11,F11, ,,,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2379292583497,40.1079534645209,2237,80,,,100 E Daniel St,,,,,,,,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2380079673686,40.1079551198299,2238,81,,,100 E Daniel St,,,,,,,,$675,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 2
+-88.2374453212154,40.1114198200993,2637,10,1254513.235,1011094.379,100 E Healey St,,,,,,,,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.237365201639,40.1114174526457,2638,11,1254513.235,1011094.379,100 E Healey St,,,,,,,,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2353835472645,40.1156083267118,3037,66A,,,100 S Third St,,,,,,,,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2395772406632,40.1090290699467,3439,07A,1253637.868,1010447.307,1-99 E John St,,,,,,,,$540,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 1
+-88.2354763865154,40.1157685821236,3838,1A,,,100 S Third St,,,,,,,1101,$360,https://champaign.t2hosted.com/custom/spacelist.aspx,Area 3
+-88.2421541846317,40.119807305203,3839,1,,,33 E Washington St,,,,,,Washington and Fremont Lo,,$390(6m)/$741(1y),Call 217-403-4700,Washington and Fremont Lot
